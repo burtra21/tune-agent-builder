@@ -1,0 +1,1332 @@
+[
+  {
+    "company_name": "Bellagio Las Vegas",
+    "domain": "bellagio.mgmresorts.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 8500,
+    "est_sqft": 4000000,
+    "parent_company": "MGM Resorts International",
+    "property_type": "resort",
+    "notes": "Iconic Strip resort with fountains, conservatory, high energy usage for water features and climate control"
+  },
+  {
+    "company_name": "MGM Grand Las Vegas",
+    "domain": "mgmgrand.mgmresorts.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 9000,
+    "est_sqft": 6852000,
+    "parent_company": "MGM Resorts International",
+    "property_type": "resort",
+    "notes": "One of world's largest hotels, massive HVAC and lighting loads"
+  },
+  {
+    "company_name": "Caesars Palace",
+    "domain": "caesarspalace.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 8000,
+    "est_sqft": 4500000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "resort",
+    "notes": "Multiple towers, extensive retail, high energy consumption"
+  },
+  {
+    "company_name": "The Venetian Las Vegas",
+    "domain": "venetianlasvegas.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 12000,
+    "est_sqft": 7000000,
+    "parent_company": "Las Vegas Sands",
+    "property_type": "resort",
+    "notes": "All-suite resort with canal system, significant cooling needs"
+  },
+  {
+    "company_name": "Wynn Las Vegas",
+    "domain": "wynnlasvegas.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 9500,
+    "est_sqft": 2700000,
+    "parent_company": "Wynn Resorts",
+    "property_type": "resort",
+    "notes": "Luxury resort with golf course, high-end amenities requiring significant energy"
+  },
+  {
+    "company_name": "The Mirage",
+    "domain": "mirage.mgmresorts.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 6500,
+    "est_sqft": 3000000,
+    "parent_company": "MGM Resorts International",
+    "property_type": "resort",
+    "notes": "Features volcano show, tropical atrium with climate control needs"
+  },
+  {
+    "company_name": "Mandalay Bay Resort & Casino",
+    "domain": "mandalaybay.mgmresorts.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 8000,
+    "est_sqft": 4200000,
+    "parent_company": "MGM Resorts International",
+    "property_type": "resort",
+    "notes": "Beach complex with wave pool, convention center, high energy usage"
+  },
+  {
+    "company_name": "Paris Las Vegas",
+    "domain": "parislasvegas.caesars.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 4500,
+    "est_sqft": 2900000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "resort",
+    "notes": "Themed resort with Eiffel Tower replica, extensive lighting"
+  },
+  {
+    "company_name": "Luxor Las Vegas",
+    "domain": "luxor.mgmresorts.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 4000,
+    "est_sqft": 2400000,
+    "parent_company": "MGM Resorts International",
+    "property_type": "resort",
+    "notes": "Pyramid structure with unique HVAC challenges, sky beam lighting"
+  },
+  {
+    "company_name": "New York-New York Hotel & Casino",
+    "domain": "newyorknewyork.mgmresorts.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 4500,
+    "est_sqft": 2000000,
+    "parent_company": "MGM Resorts International",
+    "property_type": "resort",
+    "notes": "Roller coaster, themed facades, significant lighting requirements"
+  },
+  {
+    "company_name": "Flamingo Las Vegas",
+    "domain": "flamingolasvegas.caesars.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 3500,
+    "est_sqft": 1800000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "resort",
+    "notes": "Wildlife habitat with climate control, pool complex"
+  },
+  {
+    "company_name": "Bally's Las Vegas",
+    "domain": "ballysvegas.caesars.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 3200,
+    "est_sqft": 1700000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "resort",
+    "notes": "Strip location with tennis courts, multiple dining venues"
+  },
+  {
+    "company_name": "Planet Hollywood Resort & Casino",
+    "domain": "planethollywoodresort.caesars.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 4000,
+    "est_sqft": 2500000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "resort",
+    "notes": "Connected to Miracle Mile Shops, high foot traffic"
+  },
+  {
+    "company_name": "The LINQ Hotel + Experience",
+    "domain": "caesars.com/linq",
+    "location": "Las Vegas, NV",
+    "employee_count": 2800,
+    "est_sqft": 1200000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "resort",
+    "notes": "High Roller observation wheel, outdoor promenade"
+  },
+  {
+    "company_name": "Harrah's Las Vegas",
+    "domain": "harrahslasvegas.caesars.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 3000,
+    "est_sqft": 1400000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "resort",
+    "notes": "Central Strip location, carnival theme"
+  },
+  {
+    "company_name": "Excalibur Hotel & Casino",
+    "domain": "excalibur.mgmresorts.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 4500,
+    "est_sqft": 2200000,
+    "parent_company": "MGM Resorts International",
+    "property_type": "resort",
+    "notes": "Castle-themed property, tournament arena"
+  },
+  {
+    "company_name": "Treasure Island Las Vegas",
+    "domain": "treasureisland.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 2500,
+    "est_sqft": 1300000,
+    "parent_company": "Phil Ruffin",
+    "property_type": "resort",
+    "notes": "Strip property with pirate theme, shopping mall"
+  },
+  {
+    "company_name": "Palazzo Resort Hotel Casino",
+    "domain": "palazzo.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 6000,
+    "est_sqft": 7000000,
+    "parent_company": "Las Vegas Sands",
+    "property_type": "resort",
+    "notes": "All-suite luxury property, extensive retail"
+  },
+  {
+    "company_name": "Aria Resort & Casino",
+    "domain": "aria.mgmresorts.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 10000,
+    "est_sqft": 4000000,
+    "parent_company": "MGM Resorts International",
+    "property_type": "resort",
+    "notes": "LEED Gold certified, still high energy usage for size"
+  },
+  {
+    "company_name": "Cosmopolitan of Las Vegas",
+    "domain": "cosmopolitanlasvegas.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 5000,
+    "est_sqft": 2800000,
+    "parent_company": "Blackstone Group",
+    "property_type": "resort",
+    "notes": "Luxury resort with rooftop pools, extensive dining"
+  },
+  {
+    "company_name": "Park MGM Las Vegas",
+    "domain": "parkmgm.mgmresorts.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 4000,
+    "est_sqft": 2700000,
+    "parent_company": "MGM Resorts International",
+    "property_type": "resort",
+    "notes": "Theater venue, park-like atmosphere"
+  },
+  {
+    "company_name": "Sahara Las Vegas",
+    "domain": "saharalasvegas.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 1800,
+    "est_sqft": 1100000,
+    "parent_company": "Meruelo Group",
+    "property_type": "resort",
+    "notes": "North Strip location, recently renovated"
+  },
+  {
+    "company_name": "Circus Circus Las Vegas",
+    "domain": "circuscircus.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 3500,
+    "est_sqft": 1600000,
+    "parent_company": "MGM Resorts International",
+    "property_type": "resort",
+    "notes": "Family-oriented resort with adventure dome"
+  },
+  {
+    "company_name": "Stratosphere Casino Hotel & Tower",
+    "domain": "thestrat.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 1500,
+    "est_sqft": 800000,
+    "parent_company": "Golden Entertainment",
+    "property_type": "resort",
+    "notes": "1149-foot tower with observation deck and rides"
+  },
+  {
+    "company_name": "SLS Las Vegas",
+    "domain": "slslasvegas.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 2000,
+    "est_sqft": 1400000,
+    "parent_company": "Meruelo Group",
+    "property_type": "resort",
+    "notes": "Boutique resort with multiple restaurant concepts"
+  },
+  {
+    "company_name": "Golden Nugget Las Vegas",
+    "domain": "goldennugget.com/las-vegas",
+    "location": "Las Vegas, NV",
+    "employee_count": 2000,
+    "est_sqft": 600000,
+    "parent_company": "Landry's Inc",
+    "property_type": "resort",
+    "notes": "Downtown landmark with shark tank pool"
+  },
+  {
+    "company_name": "Four Queens Hotel and Casino",
+    "domain": "fourqueens.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 800,
+    "est_sqft": 300000,
+    "parent_company": "TLC Casino Enterprises",
+    "property_type": "standalone",
+    "notes": "Historic downtown property on Fremont Street"
+  },
+  {
+    "company_name": "Fremont Hotel & Casino",
+    "domain": "fremontcasino.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 700,
+    "est_sqft": 350000,
+    "parent_company": "Boyd Gaming",
+    "property_type": "resort",
+    "notes": "Downtown Las Vegas, under Fremont Street Experience"
+  },
+  {
+    "company_name": "California Hotel & Casino",
+    "domain": "thecal.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 900,
+    "est_sqft": 400000,
+    "parent_company": "Boyd Gaming",
+    "property_type": "resort",
+    "notes": "Hawaiian-themed downtown property"
+  },
+  {
+    "company_name": "Main Street Station Casino Brewery & Hotel",
+    "domain": "mainstreetcasino.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 600,
+    "est_sqft": 280000,
+    "parent_company": "Boyd Gaming",
+    "property_type": "resort",
+    "notes": "Victorian-themed property with antique collection"
+  },
+  {
+    "company_name": "The D Las Vegas",
+    "domain": "thed.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 800,
+    "est_sqft": 350000,
+    "parent_company": "Derek Stevens",
+    "property_type": "resort",
+    "notes": "Downtown property with vintage Vegas theme"
+  },
+  {
+    "company_name": "El Cortez Hotel & Casino",
+    "domain": "elcortezhotelcasino.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 400,
+    "est_sqft": 200000,
+    "parent_company": "Kenny Epstein",
+    "property_type": "resort",
+    "notes": "Historic property, oldest continuously operating casino in Vegas"
+  },
+  {
+    "company_name": "Plaza Hotel & Casino",
+    "domain": "plazahotelcasino.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 500,
+    "est_sqft": 250000,
+    "parent_company": "Tamares Group",
+    "property_type": "resort",
+    "notes": "Located at head of Fremont Street Experience"
+  },
+  {
+    "company_name": "Red Rock Casino Resort & Spa",
+    "domain": "redrock.sclv.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 2800,
+    "est_sqft": 2200000,
+    "parent_company": "Station Casinos",
+    "property_type": "resort",
+    "notes": "Locals resort with movie theater, bowling, spa"
+  },
+  {
+    "company_name": "Green Valley Ranch Resort Spa Casino",
+    "domain": "greenvalleyranch.sclv.com",
+    "location": "Henderson, NV",
+    "employee_count": 2200,
+    "est_sqft": 1800000,
+    "parent_company": "Station Casinos",
+    "property_type": "resort",
+    "notes": "Upscale locals resort with concert venue"
+  },
+  {
+    "company_name": "Sunset Station Hotel & Casino",
+    "domain": "sunsetstation.sclv.com",
+    "location": "Henderson, NV",
+    "employee_count": 1800,
+    "est_sqft": 1400000,
+    "parent_company": "Station Casinos",
+    "property_type": "resort",
+    "notes": "Entertainment complex with kids quest, movie theater"
+  },
+  {
+    "company_name": "Santa Fe Station Hotel & Casino",
+    "domain": "santafestation.sclv.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 1200,
+    "est_sqft": 900000,
+    "parent_company": "Station Casinos",
+    "property_type": "resort",
+    "notes": "Northwest Las Vegas locals casino with ice arena"
+  },
+  {
+    "company_name": "Boulder Station Hotel & Casino",
+    "domain": "boulderstation.sclv.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 1400,
+    "est_sqft": 1000000,
+    "parent_company": "Station Casinos",
+    "property_type": "resort",
+    "notes": "Movie theater, bowling center, multiple restaurants"
+  },
+  {
+    "company_name": "Palace Station Hotel & Casino",
+    "domain": "palacestation.sclv.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 1600,
+    "est_sqft": 1200000,
+    "parent_company": "Station Casinos",
+    "property_type": "resort",
+    "notes": "Close to Strip, popular with locals"
+  },
+  {
+    "company_name": "Texas Station Gambling Hall & Hotel",
+    "domain": "texasstation.sclv.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 800,
+    "est_sqft": 650000,
+    "parent_company": "Station Casinos",
+    "property_type": "resort",
+    "notes": "Texas-themed property with entertainment venues"
+  },
+  {
+    "company_name": "Fiesta Henderson Casino Hotel",
+    "domain": "fiestahenderson.sclv.com",
+    "location": "Henderson, NV",
+    "employee_count": 900,
+    "est_sqft": 700000,
+    "parent_company": "Station Casinos",
+    "property_type": "resort",
+    "notes": "Festival marketplace theme"
+  },
+  {
+    "company_name": "Fiesta Rancho Casino Hotel",
+    "domain": "fiestarancho.sclv.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 800,
+    "est_sqft": 650000,
+    "parent_company": "Station Casinos",
+    "property_type": "resort",
+    "notes": "North Las Vegas location with ice skating rink"
+  },
+  {
+    "company_name": "Silverton Casino Hotel",
+    "domain": "silvertoncasino.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 1200,
+    "est_sqft": 800000,
+    "parent_company": "Ed Roski Jr.",
+    "property_type": "resort",
+    "notes": "Bass Pro Shops, aquarium, lodge theme"
+  },
+  {
+    "company_name": "South Point Hotel Casino & Spa",
+    "domain": "southpointcasino.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 2000,
+    "est_sqft": 1600000,
+    "parent_company": "Michael Gaughan",
+    "property_type": "resort",
+    "notes": "Equestrian center, bowling, arena for events"
+  },
+  {
+    "company_name": "Orleans Hotel & Casino",
+    "domain": "orleanscasino.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 1800,
+    "est_sqft": 1500000,
+    "parent_company": "Boyd Gaming",
+    "property_type": "resort",
+    "notes": "Large bowling center, movie theater, arena"
+  },
+  {
+    "company_name": "Gold Coast Hotel & Casino",
+    "domain": "goldcoastcasino.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 1200,
+    "est_sqft": 900000,
+    "parent_company": "Boyd Gaming",
+    "property_type": "resort",
+    "notes": "Popular locals casino with dance hall"
+  },
+  {
+    "company_name": "Sam's Town Hotel & Gambling Hall",
+    "domain": "samstownlv.com",
+    "location": "Las Vegas, NV",
+    "employee_count": 1500,
+    "est_sqft": 1200000,
+    "parent_company": "Boyd Gaming",
+    "property_type": "resort",
+    "notes": "Western theme with indoor park and water feature"
+  },
+  {
+    "company_name": "Borgata Hotel Casino & Spa",
+    "domain": "borgata.mgmresorts.com",
+    "location": "Atlantic City, NJ",
+    "employee_count": 5000,
+    "est_sqft": 2000000,
+    "parent_company": "MGM Resorts International",
+    "property_type": "resort",
+    "notes": "Premier AC property with spa, multiple towers"
+  },
+  {
+    "company_name": "Ocean Casino Resort",
+    "domain": "oceancasinoresort.com",
+    "location": "Atlantic City, NJ",
+    "employee_count": 3000,
+    "est_sqft": 1800000,
+    "parent_company": "Luxor Capital Group",
+    "property_type": "resort",
+    "notes": "Oceanfront resort with extensive amenities"
+  },
+  {
+    "company_name": "Hard Rock Hotel & Casino Atlantic City",
+    "domain": "hardrockhotelatlanticcity.com",
+    "location": "Atlantic City, NJ",
+    "employee_count": 2500,
+    "est_sqft": 1500000,
+    "parent_company": "Hard Rock International",
+    "property_type": "resort",
+    "notes": "Music-themed resort, former Trump Taj Mahal"
+  },
+  {
+    "company_name": "Caesars Atlantic City",
+    "domain": "caesarsac.com",
+    "location": "Atlantic City, NJ",
+    "employee_count": 3000,
+    "est_sqft": 1600000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "resort",
+    "notes": "Boardwalk location with multiple towers"
+  },
+  {
+    "company_name": "Tropicana Atlantic City",
+    "domain": "tropicana.net",
+    "location": "Atlantic City, NJ",
+    "employee_count": 2800,
+    "est_sqft": 1400000,
+    "parent_company": "Eldorado Resorts/Caesars Entertainment",
+    "property_type": "resort",
+    "notes": "The Quarter shopping complex, IMAX theater"
+  },
+  {
+    "company_name": "Harrah's Resort Atlantic City",
+    "domain": "harrahsresort.com",
+    "location": "Atlantic City, NJ",
+    "employee_count": 2200,
+    "est_sqft": 1200000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "resort",
+    "notes": "Marina district location with marina"
+  },
+  {
+    "company_name": "Bally's Atlantic City",
+    "domain": "ballysac.com",
+    "location": "Atlantic City, NJ",
+    "employee_count": 2000,
+    "est_sqft": 1100000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "resort",
+    "notes": "Boardwalk property with Wild Wild West casino"
+  },
+  {
+    "company_name": "Resorts Casino Hotel Atlantic City",
+    "domain": "resortsac.com",
+    "location": "Atlantic City, NJ",
+    "employee_count": 1800,
+    "est_sqft": 1000000,
+    "parent_company": "Morris Bailey",
+    "property_type": "resort",
+    "notes": "First casino in Atlantic City, boardwalk location"
+  },
+  {
+    "company_name": "Golden Nugget Atlantic City",
+    "domain": "goldennugget.com/atlantic-city",
+    "location": "Atlantic City, NJ",
+    "employee_count": 1500,
+    "est_sqft": 800000,
+    "parent_company": "Landry's Inc",
+    "property_type": "resort",
+    "notes": "Marina district, connected to Farley State Marina"
+  },
+  {
+    "company_name": "Stockton Seaview Hotel & Golf Club",
+    "domain": "seaviewresort.com",
+    "location": "Galloway, NJ",
+    "employee_count": 500,
+    "est_sqft": 400000,
+    "parent_company": "Dolce Hotels and Resorts",
+    "property_type": "resort",
+    "notes": "Historic resort with two golf courses, event facilities"
+  },
+  {
+    "company_name": "Parx Casino",
+    "domain": "parxcasino.com",
+    "location": "Bensalem, PA",
+    "employee_count": 2800,
+    "est_sqft": 1200000,
+    "parent_company": "Greenwood Gaming & Entertainment",
+    "property_type": "standalone",
+    "notes": "Large casino with horse racing track, 24/7 operations"
+  },
+  {
+    "company_name": "SugarHouse Casino",
+    "domain": "sugarhousecasino.com",
+    "location": "Philadelphia, PA",
+    "employee_count": 1200,
+    "est_sqft": 400000,
+    "parent_company": "Rush Street Gaming",
+    "property_type": "standalone",
+    "notes": "Waterfront location, high-volume gaming floor"
+  },
+  {
+    "company_name": "Sands Casino Resort Bethlehem",
+    "domain": "pasands.com",
+    "location": "Bethlehem, PA",
+    "employee_count": 2500,
+    "est_sqft": 1500000,
+    "parent_company": "Las Vegas Sands",
+    "property_type": "resort",
+    "notes": "Former steel mill site, outlet shopping, event center"
+  },
+  {
+    "company_name": "Mohegan Sun Pocono",
+    "domain": "mohegansunpocono.com",
+    "location": "Wilkes-Barre, PA",
+    "employee_count": 1800,
+    "est_sqft": 1000000,
+    "parent_company": "Mohegan Gaming & Entertainment",
+    "property_type": "resort",
+    "notes": "Hotel, spa, entertainment venues, harness racing"
+  },
+  {
+    "company_name": "Mount Airy Casino Resort",
+    "domain": "mountairycasino.com",
+    "location": "Mount Pocono, PA",
+    "employee_count": 1500,
+    "est_sqft": 800000,
+    "parent_company": "Churchill Downs Inc",
+    "property_type": "resort",
+    "notes": "Poconos resort with golf course, spa"
+  },
+  {
+    "company_name": "Hollywood Casino at Penn National Race Course",
+    "domain": "hollywoodpng.com",
+    "location": "Grantville, PA",
+    "employee_count": 1200,
+    "est_sqft": 600000,
+    "parent_company": "Penn National Gaming",
+    "property_type": "resort",
+    "notes": "Horse racing track with hotel and multiple dining venues"
+  },
+  {
+    "company_name": "Presque Isle Downs & Casino",
+    "domain": "presqueisledowns.com",
+    "location": "Erie, PA",
+    "employee_count": 900,
+    "est_sqft": 500000,
+    "parent_company": "Churchill Downs Inc",
+    "property_type": "resort",
+    "notes": "Horse racing and casino, event center"
+  },
+  {
+    "company_name": "The Meadows Racetrack and Casino",
+    "domain": "meadowsgaming.com",
+    "location": "Washington, PA",
+    "employee_count": 800,
+    "est_sqft": 450000,
+    "parent_company": "Penn National Gaming",
+    "property_type": "standalone",
+    "notes": "Harness racing track with casino floor"
+  },
+  {
+    "company_name": "Harrah's Philadelphia Casino & Racetrack",
+    "domain": "harrahsphilly.com",
+    "location": "Chester, PA",
+    "employee_count": 1000,
+    "est_sqft": 350000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "standalone",
+    "notes": "Harness racing with casino, near Philadelphia"
+  },
+  {
+    "company_name": "Rivers Casino Pittsburgh",
+    "domain": "riverscasino.com/pittsburgh",
+    "location": "Pittsburgh, PA",
+    "employee_count": 1100,
+    "est_sqft": 300000,
+    "parent_company": "Rush Street Gaming",
+    "property_type": "standalone",
+    "notes": "Downtown riverfront location, high-end gaming"
+  },
+  {
+    "company_name": "Lady Luck Casino Nemacolin",
+    "domain": "ladylucknemacolin.com",
+    "location": "Farmington, PA",
+    "employee_count": 400,
+    "est_sqft": 150000,
+    "parent_company": "Nemacolin Woodlands Resort",
+    "property_type": "resort",
+    "notes": "Part of luxury resort complex with golf courses"
+  },
+  {
+    "company_name": "Valley Forge Casino Resort",
+    "domain": "vfcasino.com",
+    "location": "King of Prussia, PA",
+    "employee_count": 800,
+    "est_sqft": 400000,
+    "parent_company": "BoysBetting LLC",
+    "property_type": "resort",
+    "notes": "Close to Valley Forge National Park, hotel and spa"
+  },
+  {
+    "company_name": "Beau Rivage Casino & Resort",
+    "domain": "beaurivage.mgmresorts.com",
+    "location": "Biloxi, MS",
+    "employee_count": 3500,
+    "est_sqft": 1800000,
+    "parent_company": "MGM Resorts International",
+    "property_type": "resort",
+    "notes": "Gulf Coast premiere resort, extensive convention space"
+  },
+  {
+    "company_name": "Hard Rock Hotel & Casino Biloxi",
+    "domain": "hardrockcasinobiloxi.com",
+    "location": "Biloxi, MS",
+    "employee_count": 1800,
+    "est_sqft": 1000000,
+    "parent_company": "Hard Rock International",
+    "property_type": "resort",
+    "notes": "Music-themed resort with concert venue"
+  },
+  {
+    "company_name": "Golden Nugget Biloxi",
+    "domain": "goldennugget.com/biloxi",
+    "location": "Biloxi, MS",
+    "employee_count": 1200,
+    "est_sqft": 700000,
+    "parent_company": "Landry's Inc",
+    "property_type": "resort",
+    "notes": "Beachfront location with marina"
+  },
+  {
+    "company_name": "IP Casino Resort Spa",
+    "domain": "ipbiloxi.com",
+    "location": "Biloxi, MS",
+    "employee_count": 2200,
+    "est_sqft": 1300000,
+    "parent_company": "Boyd Gaming",
+    "property_type": "resort",
+    "notes": "Full-service resort with spa and multiple restaurants"
+  },
+  {
+    "company_name": "Harrah's Gulf Coast",
+    "domain": "harrahsgulfcoast.com",
+    "location": "Biloxi, MS",
+    "employee_count": 1500,
+    "est_sqft": 800000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "resort",
+    "notes": "Beachfront location with hotel tower"
+  },
+  {
+    "company_name": "Palace Casino Resort",
+    "domain": "palacecasinoresort.com",
+    "location": "Biloxi, MS",
+    "employee_count": 1000,
+    "est_sqft": 600000,
+    "parent_company": "Palace Entertainment",
+    "property_type": "resort",
+    "notes": "Beachfront resort with multiple gaming floors"
+  },
+  {
+    "company_name": "Boomtown Casino Biloxi",
+    "domain": "boomtownbiloxi.com",
+    "location": "Biloxi, MS",
+    "employee_count": 800,
+    "est_sqft": 400000,
+    "parent_company": "Penn National Gaming",
+    "property_type": "standalone",
+    "notes": "Western-themed casino with hotel"
+  },
+  {
+    "company_name": "Treasure Bay Casino and Hotel",
+    "domain": "treasurebaybiloxi.com",
+    "location": "Biloxi, MS",
+    "employee_count": 600,
+    "est_sqft": 300000,
+    "parent_company": "Full House Resorts",
+    "property_type": "resort",
+    "notes": "Pirate-themed property with hotel"
+  },
+  {
+    "company_name": "Scarlet Pearl Casino Resort",
+    "domain": "scarletpearlcasino.com",
+    "location": "D'Iberville, MS",
+    "employee_count": 1200,
+    "est_sqft": 700000,
+    "parent_company": "Jena Band of Choctaw Indians",
+    "property_type": "tribal",
+    "notes": "Newer property with hotel, spa, and entertainment"
+  },
+  {
+    "company_name": "Silver Slipper Casino Hotel",
+    "domain": "silverslipper-ms.com",
+    "location": "Bay St. Louis, MS",
+    "employee_count": 700,
+    "est_sqft": 350000,
+    "parent_company": "Full House Resorts",
+    "property_type": "resort",
+    "notes": "Historic brand with hotel and marina"
+  },
+  {
+    "company_name": "L'Auberge Casino Resort Lake Charles",
+    "domain": "lakecharles.com",
+    "location": "Lake Charles, LA",
+    "employee_count": 2800,
+    "est_sqft": 1600000,
+    "parent_company": "Penn National Gaming",
+    "property_type": "resort",
+    "notes": "Full-service resort with golf course, spa, multiple towers"
+  },
+  {
+    "company_name": "Golden Nugget Lake Charles",
+    "domain": "goldennugget.com/lake-charles",
+    "location": "Lake Charles, LA",
+    "employee_count": 1800,
+    "est_sqft": 1000000,
+    "parent_company": "Landry's Inc",
+    "property_type": "resort",
+    "notes": "High-rise hotel with marina and convention center"
+  },
+  {
+    "company_name": "Delta Downs Racetrack Casino & Hotel",
+    "domain": "deltadowns.com",
+    "location": "Vinton, LA",
+    "employee_count": 900,
+    "est_sqft": 500000,
+    "parent_company": "Churchill Downs Inc",
+    "property_type": "resort",
+    "notes": "Horse racing track with hotel and casino"
+  },
+  {
+    "company_name": "Coushatta Casino Resort",
+    "domain": "coushattacasinoresort.com",
+    "location": "Kinder, LA",
+    "employee_count": 2200,
+    "est_sqft": 1200000,
+    "parent_company": "Coushatta Tribe of Louisiana",
+    "property_type": "tribal",
+    "notes": "Large tribal resort with golf course and RV park"
+  },
+  {
+    "company_name": "Paragon Casino Resort",
+    "domain": "paragoncasinoresort.com",
+    "location": "Marksville, LA",
+    "employee_count": 1500,
+    "est_sqft": 800000,
+    "parent_company": "Tunica-Biloxi Tribe",
+    "property_type": "tribal",
+    "notes": "Tribal resort with hotel, golf course, marina"
+  },
+  {
+    "company_name": "Cypress Bayou Casino Hotel",
+    "domain": "cypressbayou.com",
+    "location": "Charenton, LA",
+    "employee_count": 900,
+    "est_sqft": 450000,
+    "parent_company": "Chitimacha Tribe",
+    "property_type": "tribal",
+    "notes": "Tribal casino with hotel and championship golf course"
+  },
+  {
+    "company_name": "Isle of Capri Casino Lake Charles",
+    "domain": "isleofcapricasinos.com",
+    "location": "Lake Charles, LA",
+    "employee_count": 700,
+    "est_sqft": 300000,
+    "parent_company": "Eldorado Resorts",
+    "property_type": "standalone",
+    "notes": "Riverboat casino with hotel"
+  },
+  {
+    "company_name": "Harrah's New Orleans",
+    "domain": "harrahsneworleans.com",
+    "location": "New Orleans, LA",
+    "employee_count": 2000,
+    "est_sqft": 600000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "standalone",
+    "notes": "Downtown location, only land-based casino in New Orleans"
+  },
+  {
+    "company_name": "Treasure Chest Casino",
+    "domain": "treasurechestcasino.com",
+    "location": "Kenner, LA",
+    "employee_count": 800,
+    "est_sqft": 200000,
+    "parent_company": "Boyd Gaming",
+    "property_type": "standalone",
+    "notes": "Riverboat casino near New Orleans airport"
+  },
+  {
+    "company_name": "Boomtown Casino New Orleans",
+    "domain": "boomtownneworleans.com",
+    "location": "Harvey, LA",
+    "employee_count": 600,
+    "est_sqft": 150000,
+    "parent_company": "Penn National Gaming",
+    "property_type": "standalone",
+    "notes": "Riverboat casino across from New Orleans"
+  },
+  {
+    "company_name": "WinStar World Casino and Resort",
+    "domain": "winstarworldcasino.com",
+    "location": "Thackerville, OK",
+    "employee_count": 7000,
+    "est_sqft": 5000000,
+    "parent_company": "Chickasaw Nation",
+    "property_type": "tribal",
+    "notes": "World's largest casino by gaming floor, multiple towers"
+  },
+  {
+    "company_name": "Choctaw Casino Resort Durant",
+    "domain": "choctawcasinos.com/durant",
+    "location": "Durant, OK",
+    "employee_count": 3000,
+    "est_sqft": 2000000,
+    "parent_company": "Choctaw Nation",
+    "property_type": "tribal",
+    "notes": "Large resort with spa, golf, entertainment venues"
+  },
+  {
+    "company_name": "Hard Rock Hotel & Casino Tulsa",
+    "domain": "hardrockcasinotulsa.com",
+    "location": "Catoosa, OK",
+    "employee_count": 1800,
+    "est_sqft": 1200000,
+    "parent_company": "Cherokee Nation Entertainment",
+    "property_type": "tribal",
+    "notes": "Music-themed resort with concert venue and spa"
+  },
+  {
+    "company_name": "Riverwind Casino",
+    "domain": "riverwindcasino.com",
+    "location": "Norman, OK",
+    "employee_count": 1200,
+    "est_sqft": 700000,
+    "parent_company": "Chickasaw Nation",
+    "property_type": "tribal",
+    "notes": "Large gaming floor with hotel and entertainment"
+  },
+  {
+    "company_name": "Cherokee Casino Resort West Siloam Springs",
+    "domain": "cherokeecasino.com",
+    "location": "West Siloam Springs, OK",
+    "employee_count": 800,
+    "est_sqft": 400000,
+    "parent_company": "Cherokee Nation Entertainment",
+    "property_type": "tribal",
+    "notes": "Hotel, multiple restaurants, entertainment venue"
+  },
+  {
+    "company_name": "Osage Casino Hotel Tulsa",
+    "domain": "osagecasinos.com/tulsa",
+    "location": "Tulsa, OK",
+    "employee_count": 700,
+    "est_sqft": 300000,
+    "parent_company": "Osage Nation",
+    "property_type": "tribal",
+    "notes": "Urban location with hotel and dining"
+  },
+  {
+    "company_name": "Newcastle Casino",
+    "domain": "newcastlecasino.com",
+    "location": "Newcastle, OK",
+    "employee_count": 1000,
+    "est_sqft": 600000,
+    "parent_company": "Chickasaw Nation",
+    "property_type": "tribal",
+    "notes": "Close to Oklahoma City, large gaming floor"
+  },
+  {
+    "company_name": "Downstream Casino Resort",
+    "domain": "downstreamcasino.com",
+    "location": "Quapaw, OK",
+    "employee_count": 1200,
+    "est_sqft": 800000,
+    "parent_company": "Quapaw Nation",
+    "property_type": "tribal",
+    "notes": "Resort with hotel, golf course, event center"
+  },
+  {
+    "company_name": "Indigo Sky Casino",
+    "domain": "indigoskycasino.com",
+    "location": "Wyandotte, OK",
+    "employee_count": 600,
+    "est_sqft": 250000,
+    "parent_company": "Eastern Shawnee Tribe",
+    "property_type": "tribal",
+    "notes": "Hotel, multiple dining options, event space"
+  },
+  {
+    "company_name": "Grand Casino Hotel Resort",
+    "domain": "grandcasinook.com",
+    "location": "Shawnee, OK",
+    "employee_count": 800,
+    "est_sqft": 400000,
+    "parent_company": "Citizen Potawatomi Nation",
+    "property_type": "tribal",
+    "notes": "Full-service resort with golf course"
+  },
+  {
+    "company_name": "Pechanga Resort Casino",
+    "domain": "pechanga.com",
+    "location": "Temecula, CA",
+    "employee_count": 4500,
+    "est_sqft": 4400000,
+    "parent_company": "Pechanga Band of Luise\u00f1o Indians",
+    "property_type": "tribal",
+    "notes": "Largest resort casino on West Coast, multiple towers"
+  },
+  {
+    "company_name": "San Manuel Casino",
+    "domain": "sanmanuel.com",
+    "location": "Highland, CA",
+    "employee_count": 4000,
+    "est_sqft": 3500000,
+    "parent_company": "San Manuel Band of Mission Indians",
+    "property_type": "tribal",
+    "notes": "Large gaming floor with hotel, extensive dining"
+  },
+  {
+    "company_name": "Morongo Casino Resort Spa",
+    "domain": "morongocasinoresort.com",
+    "location": "Cabazon, CA",
+    "employee_count": 2800,
+    "est_sqft": 2200000,
+    "parent_company": "Morongo Band of Mission Indians",
+    "property_type": "tribal",
+    "notes": "Desert resort with hotel, spa, pool complex"
+  },
+  {
+    "company_name": "Chumash Casino Resort",
+    "domain": "chumashcasino.com",
+    "location": "Santa Ynez, CA",
+    "employee_count": 1800,
+    "est_sqft": 1200000,
+    "parent_company": "Santa Ynez Band of Chumash Indians",
+    "property_type": "tribal",
+    "notes": "Central Coast location with hotel and spa"
+  },
+  {
+    "company_name": "Viejas Casino & Resort",
+    "domain": "viejas.com",
+    "location": "Alpine, CA",
+    "employee_count": 2000,
+    "est_sqft": 1500000,
+    "parent_company": "Viejas Band of Kumeyaay Indians",
+    "property_type": "tribal",
+    "notes": "Mountain resort with hotel, outlet center"
+  },
+  {
+    "company_name": "Sycuan Casino Resort",
+    "domain": "sycuan.com",
+    "location": "El Cajon, CA",
+    "employee_count": 2200,
+    "est_sqft": 1600000,
+    "parent_company": "Sycuan Band of the Kumeyaay Nation",
+    "property_type": "tribal",
+    "notes": "Recently expanded resort with hotel tower"
+  },
+  {
+    "company_name": "Cache Creek Casino Resort",
+    "domain": "cachecreek.com",
+    "location": "Brooks, CA",
+    "employee_count": 2500,
+    "est_sqft": 1800000,
+    "parent_company": "Yocha Dehe Wintun Nation",
+    "property_type": "tribal",
+    "notes": "Northern California resort with hotel, spa, golf"
+  },
+  {
+    "company_name": "Thunder Valley Casino Resort",
+    "domain": "thundervalleyresort.com",
+    "location": "Lincoln, CA",
+    "employee_count": 2000,
+    "est_sqft": 1400000,
+    "parent_company": "United Auburn Indian Community",
+    "property_type": "tribal",
+    "notes": "Large gaming floor with hotel, amphitheater"
+  },
+  {
+    "company_name": "Table Mountain Casino",
+    "domain": "tmcasino.com",
+    "location": "Friant, CA",
+    "employee_count": 1200,
+    "est_sqft": 600000,
+    "parent_company": "Table Mountain Rancheria",
+    "property_type": "tribal",
+    "notes": "Central Valley location with hotel and events"
+  },
+  {
+    "company_name": "Jackson Rancheria Casino Resort",
+    "domain": "jacksoncasino.com",
+    "location": "Jackson, CA",
+    "employee_count": 1400,
+    "est_sqft": 800000,
+    "parent_company": "Jackson Rancheria Band of Miwuk Indians",
+    "property_type": "tribal",
+    "notes": "Gold Country location with hotel and spa"
+  },
+  {
+    "company_name": "Black Oak Casino Resort",
+    "domain": "blackoakcasino.com",
+    "location": "Tuolumne, CA",
+    "employee_count": 800,
+    "est_sqft": 400000,
+    "parent_company": "Tuolumne Band of Me-Wuk Indians",
+    "property_type": "tribal",
+    "notes": "Mountain resort with hotel and RV park"
+  },
+  {
+    "company_name": "Graton Resort & Casino",
+    "domain": "gratonresortcasino.com",
+    "location": "Rohnert Park, CA",
+    "employee_count": 2000,
+    "est_sqft": 1300000,
+    "parent_company": "Federated Indians of Graton Rancheria",
+    "property_type": "tribal",
+    "notes": "North Bay location with hotel, near wine country"
+  },
+  {
+    "company_name": "Agua Caliente Casino Resort Spa",
+    "domain": "hotwatercasino.com",
+    "location": "Rancho Mirage, CA",
+    "employee_count": 1600,
+    "est_sqft": 1000000,
+    "parent_company": "Agua Caliente Band of Cahuilla Indians",
+    "property_type": "tribal",
+    "notes": "Desert resort with natural hot springs spa"
+  },
+  {
+    "company_name": "Fantasy Springs Resort Casino",
+    "domain": "fantasyspringsresort.com",
+    "location": "Indio, CA",
+    "employee_count": 1400,
+    "est_sqft": 900000,
+    "parent_company": "Cabazon Band of Mission Indians",
+    "property_type": "tribal",
+    "notes": "Desert location with hotel, bowling, golf"
+  },
+  {
+    "company_name": "Spotlight 29 Casino",
+    "domain": "spotlight29.com",
+    "location": "Coachella, CA",
+    "employee_count": 800,
+    "est_sqft": 350000,
+    "parent_company": "Twenty-Nine Palms Band of Mission Indians",
+    "property_type": "tribal",
+    "notes": "Desert location with hotel and entertainment"
+  },
+  {
+    "company_name": "Foxwoods Resort Casino",
+    "domain": "foxwoods.com",
+    "location": "Mashantucket, CT",
+    "employee_count": 11000,
+    "est_sqft": 9000000,
+    "parent_company": "Mashantucket Pequot Tribal Nation",
+    "property_type": "tribal",
+    "notes": "World's largest casino complex, multiple hotels and venues"
+  },
+  {
+    "company_name": "Mohegan Sun",
+    "domain": "mohegansun.com",
+    "location": "Uncasville, CT",
+    "employee_count": 10000,
+    "est_sqft": 5000000,
+    "parent_company": "Mohegan Gaming & Entertainment",
+    "property_type": "tribal",
+    "notes": "Three casinos in one, arena, multiple hotels"
+  },
+  {
+    "company_name": "MGM Grand Detroit",
+    "domain": "mgmgranddetroit.com",
+    "location": "Detroit, MI",
+    "employee_count": 3500,
+    "est_sqft": 1500000,
+    "parent_company": "MGM Resorts International",
+    "property_type": "resort",
+    "notes": "Downtown location with hotel, spa, multiple restaurants"
+  },
+  {
+    "company_name": "MotorCity Casino Hotel",
+    "domain": "motorcitycasino.com",
+    "location": "Detroit, MI",
+    "employee_count": 2800,
+    "est_sqft": 1200000,
+    "parent_company": "Ilitch Holdings",
+    "property_type": "resort",
+    "notes": "Hotel, spa, multiple dining venues, sound board theater"
+  },
+  {
+    "company_name": "Greektown Casino Hotel",
+    "domain": "greektowncasino.com",
+    "location": "Detroit, MI",
+    "employee_count": 2200,
+    "est_sqft": 900000,
+    "parent_company": "Penn National Gaming",
+    "property_type": "resort",
+    "notes": "Historic Greektown district, hotel and restaurants"
+  },
+  {
+    "company_name": "Soaring Eagle Casino & Resort",
+    "domain": "soaringeaglewaterpark.com",
+    "location": "Mount Pleasant, MI",
+    "employee_count": 2500,
+    "est_sqft": 1800000,
+    "parent_company": "Saginaw Chippewa Indian Tribe",
+    "property_type": "tribal",
+    "notes": "Large tribal resort with hotel, water park, entertainment"
+  },
+  {
+    "company_name": "FireKeepers Casino Hotel",
+    "domain": "firekeeperscasino.com",
+    "location": "Battle Creek, MI",
+    "employee_count": 1800,
+    "est_sqft": 1200000,
+    "parent_company": "Nottawaseppi Huron Band of Potawatomi",
+    "property_type": "tribal",
+    "notes": "Large gaming floor with hotel and golf course"
+  },
+  {
+    "company_name": "Gun Lake Casino",
+    "domain": "gunlakecasino.com",
+    "location": "Wayland, MI",
+    "employee_count": 1200,
+    "est_sqft": 600000,
+    "parent_company": "Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians",
+    "property_type": "tribal",
+    "notes": "Large gaming floor, multiple restaurants"
+  },
+  {
+    "company_name": "Little River Casino Resort",
+    "domain": "lrcr.com",
+    "location": "Manistee, MI",
+    "employee_count": 800,
+    "est_sqft": 400000,
+    "parent_company": "Little River Band of Ottawa Indians",
+    "property_type": "tribal",
+    "notes": "Lake Michigan location with hotel and spa"
+  },
+  {
+    "company_name": "Four Winds Casino Resort New Buffalo",
+    "domain": "fourwindscasino.com/newbuffalo",
+    "location": "New Buffalo, MI",
+    "employee_count": 1500,
+    "est_sqft": 1000000,
+    "parent_company": "Pokagon Band of Potawatomi Indians",
+    "property_type": "tribal",
+    "notes": "Lake Michigan resort with hotel, spa, Hard Rock Cafe"
+  },
+  {
+    "company_name": "Kewadin Casino Hotel Sault Ste. Marie",
+    "domain": "kewadin.com/sault",
+    "location": "Sault Ste. Marie, MI",
+    "employee_count": 400,
+    "est_sqft": 200000,
+    "parent_company": "Sault Ste. Marie Tribe of Chippewa Indians",
+    "property_type": "tribal",
+    "notes": "International border location with hotel"
+  },
+  {
+    "company_name": "Horseshoe Hammond",
+    "domain": "caesars.com/horseshoe-hammond",
+    "location": "Hammond, IN",
+    "employee_count": 3000,
+    "est_sqft": 1300000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "standalone",
+    "notes": "Close to Chicago, large gaming floor with hotel"
+  },
+  {
+    "company_name": "Blue Chip Casino Hotel & Spa",
+    "domain": "bluechipcasino.com",
+    "location": "Michigan City, IN",
+    "employee_count": 1800,
+    "est_sqft": 1000000,
+    "parent_company": "Boyd Gaming",
+    "property_type": "resort",
+    "notes": "Lake Michigan location with hotel, spa, marina"
+  },
+  {
+    "company_name": "Ameristar Casino Resort Spa East Chicago",
+    "domain": "ameristar.com/east-chicago",
+    "location": "East Chicago, IN",
+    "employee_count": 1500,
+    "est_sqft": 800000,
+    "parent_company": "Penn National Gaming",
+    "property_type": "resort",
+    "notes": "Hotel, spa, multiple restaurants near Chicago"
+  },
+  {
+    "company_name": "Hollywood Casino Lawrenceburg",
+    "domain": "hollywoodlawrenceburg.com",
+    "location": "Lawrenceburg, IN",
+    "employee_count": 1200,
+    "est_sqft": 600000,
+    "parent_company": "Penn National Gaming",
+    "property_type": "standalone",
+    "notes": "Riverboat casino with hotel, near Cincinnati"
+  },
+  {
+    "company_name": "Horseshoe Southern Indiana",
+    "domain": "caesars.com/horseshoe-southern-indiana",
+    "location": "Elizabeth, IN",
+    "employee_count": 1800,
+    "est_sqft": 1000000,
+    "parent_company": "Caesars Entertainment",
+    "property_type": "resort",
+    "notes": "Hotel, golf course, near Louisville"
+  },
+  {
+    "company_name": "French Lick Resort Casino",
+    "domain": "frenchlick.com",
+    "location": "French Lick, IN",
+    "employee_count": 1500,
+    "est_sqft": 1200000,
+    "parent_company": "Cook Group",
+    "property_type": "resort",
+    "notes": "Historic resort with two hotels, spa, golf courses"
+  },
+  {
+    "company_name": "Rising Star Casino Resort",
+    "domain": "risingstarcasino.com",
+    "location": "Rising Sun, IN",
+    "employee_count": 900,
+    "est_sqft": 500000,
+    "parent_company": "Full House Resorts",
+    "property_type": "resort",
+    "notes": "Ohio River location with hotel and marina"
+  },
+  {
+    "company_name": "Belterra Casino Resort",
+    "domain": "belterracasino.com",
+    "location": "Florence, IN",
+    "employee_count": 1100,
+    "est_sqft": 650000,
+    "parent_company": "Penn National Gaming",
+    "property_type": "resort",
+    "notes": "Hotel, spa, golf course, near Cincinnati"
+  }
+]

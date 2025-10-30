@@ -1,0 +1,19 @@
+# Don't upload these to Railway
+.env
+*.pyc
+__pycache__/
+.git/
+.DS_Store
+
+# Don't upload large output files
+outputs/
+pdf_lead_magnets/generated/*.pdf
+
+# Don't upload documentation
+docs/
+
+# Don't upload test scripts
+scripts/
+
+# Keep the PDF directory structure but not the files
+!pdf_lead_magnets/generated/.gitkeep

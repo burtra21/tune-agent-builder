@@ -1,0 +1,677 @@
+[
+  {
+    "company_profile": {
+      "company_name": "Foxwoods Resort Casino",
+      "domain": "foxwoods.com",
+      "location": "Mashantucket, CT",
+      "employee_count": 11000,
+      "estimated_sqft": 9000000,
+      "estimated_energy_spend": 180000000.0,
+      "annual_savings_dollars": 15462000.0,
+      "monthly_savings_dollars": 1288500.0,
+      "five_year_savings": 77310000.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 108234.0
+    },
+    "composite_score": 76.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequences": {
+      "cfo": [
+        {
+          "email_number": 1,
+          "subject": "Foxwoods Resort Casino: $1.39M demand charge opportunity?",
+          "body": "Quick question - do you know what percentage of Foxwoods Resort Casino's utility bill is demand charges vs actual energy consumption?\n\nA Las Vegas casino recently achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months\n\u2022 25-40% IRR, 14-month payback\n\nBased on your ~$180,000,000 annual energy spend, similar results would mean:\n\n\u2022 Estimated demand charge savings: $1,391,580/year\n\u2022 Direct EBITDA improvement: $15,462,000/year\n\nThe technology addresses harmonic distortion from gaming equipment - the hidden driver of inflated demand charges that LED upgrades and BMS can't touch.",
+          "cta": "See the third-party verification data",
+          "send_delay_days": 0
+        },
+        {
+          "email_number": 2,
+          "subject": "Why Foxwoods Resort Casino pays 3-5x higher demand rates",
+          "body": "Here's something that might interest you about Foxwoods Resort Casino's energy expenses...\n\nDemand charges are likely 30-50% of your $180M utility bill - that's roughly $16.2M annually. Gaming equipment creates one 15-minute power spike, and you pay that peak rate for the entire month.\n\nIt's essentially a hidden margin leak that flows straight off your EBITDA.\n\nCasinos pay 3-5x higher demand rates than typical commercial buildings because gaming equipment creates electrical noise (harmonic distortion) that inflates these charges.\n\nMost energy projects focus on kWh reduction but can't touch demand charges - which is where the real margin improvement lives.",
+          "cta": "See your estimated demand charge breakdown",
+          "send_delay_days": 2
+        },
+        {
+          "email_number": 3,
+          "subject": "Why your energy projects underdeliver on ROI promises",
+          "body": "Most casinos have tried LED upgrades and BMS systems. They help with kWh consumption, but they can't touch your demand charges...\n\nHere's why: Gaming equipment generates 15-25% harmonic distortion. This electrical noise forces your facility to draw more power during peak periods, inflating demand charges.\n\nTraditional energy solutions (LED, HVAC upgrades, BMS) reduce consumption but don't address the root cause of inflated demand.\n\nThat's why energy projects often underdeliver on their ROI promises to CFOs - they're missing the biggest expense line item.\n\nThe Vegas casino saw 8.59% demand reduction because we addressed the harmonic distortion directly.",
+          "cta": "Download the demand charge analysis",
+          "send_delay_days": 4
+        },
+        {
+          "email_number": 4,
+          "subject": "What would you do with $1.39M/year in pure EBITDA?",
+          "body": "What would you do with an extra $1,391,580/year falling straight to EBITDA?\n\nSolid-state filtration installs at your electrical panels with zero downtime. No integration complexity, no operational risk.\n\n5% SAVINGS GUARANTEE: 50,000+ installations worldwide, never achieved below 5% reduction, full refund if we don't hit minimum.\n\nTypical IRR of 25-40% beats most gaming floor equipment returns. 14-month payback means you're cash-flow positive by next year's budget cycle.\n\nThis isn't cost reduction - it's margin improvement on a controllable expense line.",
+          "cta": "Review the ROI model",
+          "send_delay_days": 7
+        },
+        {
+          "email_number": 5,
+          "subject": "30-day metered pilot - same format as Vegas property",
+          "body": "I'm curious if you'd be open to a 30-day metered pilot - same format that delivered 8.59% reduction for the Vegas property...\n\nPre-defined success criteria with full transparency. Independent metering validates results before any commitment.\n\n25-40% IRR with 14-month payback typical, but our 5% minimum guarantee means full refund if we don't deliver.\n\nZero operational risk, zero downtime. If the numbers work, we scale. If not, you're out nothing.\n\nWorth 30 days to potentially unlock $15.4M in annual EBITDA improvement?",
+          "cta": "Review pilot terms",
+          "send_delay_days": 10
+        }
+      ],
+      "operations": [
+        {
+          "email_number": 1,
+          "subject": "Zero-Downtime Energy Reduction for Foxwoods",
+          "body": "Quick question - what would you do with an extra $15,462,000/year in recurring cost savings that didn't require any operational changes?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Zero downtime installation during live gaming operations  \n\u2022 Third-party verified over 12 months\n\u2022 14-month payback period\n\nBased on Foxwoods' estimated $180,000,000 annual energy spend, similar results would mean $15,462,000/year in predictable savings.\n\nI'm reaching out because your operations profile suggests the same results are possible. The technology installs in live electrical panels without touching gaming systems - protecting your 24/7 operations while cutting your largest expense.\n\nWant to see the installation process overview?"
+        },
+        {
+          "email_number": 2,
+          "subject": "Why Casino Operations Can't Risk Downtime",
+          "body": "Most energy solutions require shutdowns or system integration. Here's why this is different...\n\nCasino operations can't tolerate even minutes of downtime - every second of gaming floor interruption costs revenue. That's exactly why this solid-state technology was designed for live installation.\n\nThe Vegas casino installation happened during peak gaming hours:\n\u2022 No power interruptions to gaming systems\n\u2022 No modifications to existing infrastructure\n\u2022 No integration with surveillance, security, or PMS systems\n\u2022 Installation team worked around live operations\n\nYour electrical panels stay energized throughout the entire process. Gaming continues uninterrupted while the technology immediately begins reducing demand charges.\n\nWant to see the zero-downtime installation video?"
+        },
+        {
+          "email_number": 3,
+          "subject": "Set-and-Forget Energy Savings",
+          "body": "The best operational improvements are the ones you never have to think about...\n\nThis solid-state technology has zero moving parts and requires zero maintenance. Once installed, it works 24/7 without operator intervention - completely transparent to all your systems.\n\nNo impact on:\n\u2022 Gaming floor operations\n\u2022 Security systems\n\u2022 Surveillance equipment  \n\u2022 HVAC controls\n\u2022 Lighting systems\n\nIt simply reduces harmonic distortion at the electrical panel level, lowering your demand charges every month. Your team never needs to monitor it, maintain it, or think about it.\n\nThe Vegas casino hasn't touched their installation in 12+ months - it just keeps delivering 8.59% savings automatically.\n\nWant to review the technical specifications?"
+        },
+        {
+          "email_number": 4,
+          "subject": "How It Turns Your Largest Expense Into Profit",
+          "body": "Here's how it turns your largest operational expense into predictable savings...\n\nThe technology addresses harmonic distortion at your electrical panels, reducing apparent power (kVA). Lower kVA means lower demand charges from your utility - every single month.\n\nWith 50,000+ installations worldwide, we've never seen results below 5% reduction. That's why we guarantee minimum 5% savings with full refund if not met.\n\nFor Foxwoods, even conservative 5% savings would mean $9,000,000/year recurring cost reduction. The Vegas casino hit 8.59% - but we guarantee the floor, not the ceiling.\n\nWant to review the ROI model showing month-by-month savings projections?"
+        },
+        {
+          "email_number": 5,
+          "subject": "30-Day Metered Pilot - Same as Vegas Casino",
+          "body": "Would you be open to a 30-day metered pilot - same format that delivered 8.59% reduction with zero downtime for the Vegas property?\n\nHere's how it works:\n\u2022 Install meters to establish baseline consumption\n\u2022 Zero-downtime installation during your normal operations\n\u2022 30-day measurement period with daily monitoring\n\u2022 Pre-defined success criteria (minimum 5% reduction)\n\u2022 Full refund guarantee if savings don't meet minimum\n\nNo operational disruption, no risk to your 24/7 gaming operations. Just measurable, verifiable results.\n\nThe Vegas casino started with the same pilot format before expanding facility-wide.\n\nWant to review the pilot terms and timeline?"
+        }
+      ],
+      "facilities": [
+        {
+          "email_number": 1,
+          "subject": "What 15-25% THD is costing Foxwoods in demand charges",
+          "body": "Quick question - has anyone shown you what 15-25% current THD from your gaming floor is actually costing in demand charges?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months  \n\u2022 Zero downtime installation\n\u2022 Addressed harmonic distortion at the source\n\nBased on Foxwoods' ~$180,000,000 annual energy spend, similar results would mean $15,462,000/year.\n\nThe technology addresses the root cause gaming equipment inefficiency - the 15-25% harmonic distortion that LED upgrades and BMS can't touch.\n\nWould you like to see the third-party verification data?"
+        },
+        {
+          "email_number": 2,
+          "subject": "Why your energy projects probably underdelivered on ROI",
+          "body": "Here's why your energy projects probably underdelivered on ROI...\n\nYour gaming equipment (slots, VFDs on HVAC systems) creates 15-25% total harmonic distortion. Compare that to office buildings at 5-8% THD.\n\nThis harmonic distortion inflates your apparent power (kVA) readings, which drives up demand charges regardless of actual power consumption.\n\nBMS optimizations and LED retrofits can't address this electrical inefficiency because they don't filter harmonics at the panel level.\n\nIt's like trying to improve fuel economy while driving with the parking brake on.\n\nWant me to send you a harmonic distortion analysis showing the technical breakdown?"
+        },
+        {
+          "email_number": 3,
+          "subject": "What facilities teams find more valuable than the savings",
+          "body": "The savings are great, but here's what most facilities teams find even more valuable...\n\nCleaner power quality means:\n\n\u2022 Extended equipment life (less voltage stress on motors, electronics)\n\u2022 Reduced voltage fluctuations and electrical transients\n\u2022 Improved power factor without installing capacitor banks\n\u2022 Better performance from existing HVAC and gaming systems\n\nWhen you eliminate harmonics at the source, everything downstream runs more efficiently and lasts longer.\n\nOne facilities director told me: \"The demand savings paid for it, but avoiding premature equipment failures was the real win.\"\n\nWant to review the technical specifications for your engineering team?"
+        },
+        {
+          "email_number": 4,
+          "subject": "How it eliminates harmonics at the source (5% guarantee)",
+          "body": "Here's the technical breakdown of how it eliminates harmonics at the source...\n\nSolid-state filtration technology installed at your electrical panel level. It actively cancels harmonic currents before they inflate your demand readings.\n\n\u2022 No moving parts, no maintenance required\n\u2022 20+ year operational life\n\u2022 Real-time harmonic correction\n\nOur 5% guarantee: 50,000+ installations worldwide, never achieved below 5% reduction. Full refund if minimum isn't met.\n\nShould I send the technical specs to your engineering team for review?"
+        },
+        {
+          "email_number": 5,
+          "subject": "30-day metered pilot with power quality monitoring?",
+          "body": "Would you be open to a 30-day metered pilot with full power quality monitoring?\n\nSame approach as the Las Vegas casino - we'll install monitoring equipment to measure:\n\n\u2022 Demand reduction (kW)\n\u2022 THD improvement\n\u2022 Power factor correction\n\u2022 Voltage stability\n\nPre-defined success criteria with third-party verification. Our 5% minimum guarantee applies to the pilot.\n\nZero risk to test the technology on a portion of your electrical system.\n\nWant to review the pilot terms and monitoring protocol?"
+        }
+      ],
+      "esg": [
+        {
+          "subject": "Carbon targets + profitability at Foxwoods?",
+          "body": "Quick question - are you finding ways to hit carbon reduction targets that actually improve profitability, or is it always a trade-off?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months\n\u2022 25-40% IRR\n\nBased on Foxwoods Resort Casino's profile, similar results would mean:\n\n\u2022 ~108,234 tons CO2 reduction annually\n\u2022 $15,462,000/year cost savings\n\nThe technology addresses energy waste at the source - delivering measurable sustainability impact that actually improves profitability.\n\nWould you like to see the third-party verification report?"
+        },
+        {
+          "subject": "Board-ready carbon impact data",
+          "body": "Here's something your board might find interesting about measurable carbon reduction...\n\nMost sustainability initiatives struggle with credible reporting. This Vegas casino got third-party verification:\n\n\u2022 8.59% energy reduction = 12,847 tons CO2 annually\n\u2022 Verified monthly over 12 months\n\u2022 Board-ready ESG reporting data\n\u2022 Zero operational disruption\n\nFor Foxwoods' 9M sqft facility, this translates to ~108,234 tons CO2 reduction - supporting your 30-50% carbon reduction commitments with quantifiable results.\n\nThe key? Addressing harmonic distortion in gaming equipment creates continuous demand reduction.\n\nReady to download the carbon reduction analysis showing how this supports ESG targets?"
+        },
+        {
+          "subject": "Why most casino sustainability projects miss the mark",
+          "body": "Most sustainability programs focus on the wrong metric for casinos...\n\nEnergy efficiency (kWh) vs. demand reduction (kW) - completely different carbon impact.\n\nCasinos have unique challenges:\n\u2022 Gaming equipment creates harmonic distortion\n\u2022 Peak demand drives carbon footprint\n\u2022 Traditional efficiency measures don't address root cause\n\nThis Vegas casino targeted demand reduction:\n\u2022 8.59% kW reduction (not just kWh)\n\u2022 Continuous carbon reduction 24/7\n\u2022 Higher ESG impact per dollar invested\n\nFor Foxwoods, demand reduction could deliver 6x more carbon impact than typical efficiency projects.\n\nWant to see the carbon impact model comparing approaches?"
+        },
+        {
+          "subject": "Sustainability that accelerates EBITDA",
+          "body": "What if you could accelerate carbon reduction AND improve EBITDA?\n\nSolid-state filtration technology eliminates the trade-off:\n\u2022 Continuous 8.59% demand reduction\n\u2022 Zero impact on gaming operations\n\u2022 25-40% IRR (sustainability pays for itself)\n\n**5% GUARANTEE:** 50,000+ installations worldwide, never achieved below 5% reduction, full refund if minimum not met.\n\nFor Foxwoods:\n\u2022 $15.4M annual savings projection\n\u2022 108,234 tons CO2 reduction\n\u2022 Board-ready ESG metrics\n\nThis isn't about choosing between profitability and sustainability - it's about accelerating both.\n\nReady to review the ESG impact analysis?"
+        },
+        {
+          "subject": "30-day pilot with ESG verification?",
+          "body": "Would you be open to a 30-day pilot with third-party verification for board reporting?\n\nSame approach as the Vegas casino:\n\u2022 Pre-defined success criteria (energy + carbon)\n\u2022 Third-party verification throughout\n\u2022 5% minimum guarantee\n\u2022 Board-ready ESG data\n\nNo long-term commitment - just measurable results you can report with confidence.\n\nFor Foxwoods' scale, even conservative 5% results mean:\n\u2022 63,000+ tons CO2 reduction annually\n\u2022 $9M+ cost savings\n\u2022 Quantifiable progress toward carbon targets\n\nPilot includes full carbon impact analysis and ESG reporting support.\n\nShall I send over the pilot terms for review?"
+        }
+      ]
+    },
+    "num_sequences_generated": 4,
+    "num_emails_per_sequence": 5,
+    "total_emails_generated": 20
+  },
+  {
+    "company_profile": {
+      "company_name": "The Venetian Las Vegas",
+      "domain": "venetianlasvegas.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 12000,
+      "estimated_sqft": 7000000,
+      "estimated_energy_spend": 140000000.0,
+      "annual_savings_dollars": 12026000.0,
+      "monthly_savings_dollars": 1002167.0,
+      "five_year_savings": 60130000.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 84182.0
+    },
+    "composite_score": 79.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequences": {
+      "cfo": [
+        {
+          "email_number": 1,
+          "subject": "The Venetian's $12M hidden margin opportunity",
+          "body": "Quick question - do you know what percentage of The Venetian's $140M utility bill is demand charges vs actual energy consumption?\n\nA Las Vegas casino recently achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months\n\u2022 25-40% IRR, 14-month payback\n\nBased on your estimated $12.6M annual demand charges, similar results would mean:\n\n\u2022 Projected demand savings: $1,082,340/year\n\u2022 Direct EBITDA improvement: $12,026,000/year\n\nThe technology addresses harmonic distortion from gaming equipment - the hidden driver of inflated demand charges that LED upgrades and BMS can't touch.",
+          "cta": "See the third-party verification data",
+          "send_delay_days": 0
+        },
+        {
+          "email_number": 2,
+          "subject": "Why casinos pay 3-5x more for demand charges",
+          "body": "Here's something most casino CFOs don't realize about demand charges:\n\nOne 15-minute spike in electrical demand sets your rate for the entire month. Gaming equipment creates constant spikes - it's why casinos pay 3-5x demand rates vs office buildings.\n\nAt The Venetian's scale (~70,000 kW peak), you're likely paying $12.6M annually just in demand charges. That's 30-50% of your total utility bill.\n\nThis isn't just a cost reduction play - it's pure margin improvement. Every dollar saved on demand charges flows straight to EBITDA with zero impact on guest experience or operations.",
+          "cta": "See your estimated demand charge breakdown",
+          "send_delay_days": 3
+        },
+        {
+          "email_number": 3,
+          "subject": "Why energy projects underdeliver on ROI promises",
+          "body": "Most casinos have tried LED upgrades and BMS systems. They help with kWh consumption, but they can't touch your demand charges.\n\nHere's the issue: Gaming equipment creates 15-25% harmonic distortion. Every slot machine, every server rack creates electrical \"noise\" that inflates your peak demand readings.\n\nTraditional energy solutions miss this completely. They optimize consumption but ignore the distortion driving your demand spikes.\n\nThat's why a Vegas casino saw 8.59% demand reduction - we addressed the root cause, not just the symptoms. The math is straightforward once you see the third-party data.",
+          "cta": "Download the demand charge analysis",
+          "send_delay_days": 6
+        },
+        {
+          "email_number": 4,
+          "subject": "What would you do with $1M extra EBITDA annually?",
+          "body": "The solution is solid-state filtration installed at your electrical panels. Zero downtime, no integration complexity, no operational risk.\n\nHere's our track record: 50,000+ installations worldwide, never achieved below 5% reduction. If we don't hit the 5% minimum, full refund.\n\nThe IRR (25-40%) beats most gaming floor equipment investments. At The Venetian's scale, we're talking about $1,082,340 in annual demand savings alone.\n\nIt's the kind of margin improvement that makes budget meetings more interesting.",
+          "cta": "Review the ROI model",
+          "send_delay_days": 9
+        },
+        {
+          "email_number": 5,
+          "subject": "30-day pilot with pre-defined success criteria",
+          "body": "I'm curious if you'd be open to a 30-day metered pilot - same format that delivered 8.59% reduction for the Vegas property.\n\nPre-defined success criteria, full transparency on measurements, third-party verification available. The 5% minimum guarantee means you're covered if results don't materialize.\n\nWith a 14-month average payback and 25-40% IRR, it's the kind of low-risk, high-return project that CFOs love.\n\nWorth a conversation?",
+          "cta": "Review pilot terms",
+          "send_delay_days": 12
+        }
+      ],
+      "operations": [
+        {
+          "email_number": 1,
+          "subject": "Zero-Downtime Energy Reduction - Vegas Casino Results",
+          "body": "Quick question - what would you do with an extra $12,026,000/year in recurring cost savings that didn't require any operational changes?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Zero downtime installation during live gaming operations\n\u2022 Third-party verified over 12 months\n\u2022 14-month payback period\n\nBased on The Venetian's estimated $140,000,000 annual energy spend, similar results would deliver $12,026,000/year in recurring savings.\n\nI'm reaching out because your operations profile suggests the same results are possible. The technology installs in live electrical panels without touching gaming systems - protecting your 24/7 operations while turning your largest expense into profit.\n\nWant to see the installation process overview?"
+        },
+        {
+          "email_number": 2,
+          "subject": "Why Casino Operations Can't Risk Downtime",
+          "body": "Most energy solutions require downtime or system integration. Here's why this is different...\n\nCasino operations can't tolerate even seconds of power interruption. Gaming floors, surveillance, security systems - everything depends on continuous power.\n\nTune energy filters install directly in live electrical panels with zero power interruption. No gaming system modifications. No integration requirements. No operational disruption.\n\nThe Vegas casino installation happened during peak gaming hours - players never knew work was happening.\n\nYour operations continue exactly as before, except with $1,002,167 less in monthly energy costs.\n\nThis is why casinos choose solid-state technology over traditional energy solutions that require shutdowns or system changes.\n\nWant to see the zero-downtime installation video?"
+        },
+        {
+          "email_number": 3,
+          "subject": "Set It and Forget It - No Maintenance Required",
+          "body": "The best operational improvements are the ones you never have to think about...\n\nTune filters are solid-state technology - no moving parts, no scheduled maintenance, no operator intervention required. Install once, save continuously.\n\nThey're completely transparent to your gaming, security, and surveillance systems. Your operations team won't need training or new procedures.\n\nThe Vegas casino hasn't touched their installation in 12+ months. It just works 24/7, delivering consistent 8.59% demand reduction without any operational overhead.\n\nFor operations directors, this means predictable cost reduction without adding complexity to your already demanding environment.\n\nYour focus stays on running the casino - not managing energy equipment.\n\nReady to review the technical specifications?"
+        },
+        {
+          "email_number": 4,
+          "subject": "How It Works + 5% Minimum Guarantee",
+          "body": "Here's how it turns your largest operational expense into predictable savings...\n\nTune filters address harmonic distortion at the electrical panel level, reducing apparent power (kVA) which directly lowers your demand charges.\n\nInstalls in 2-4 hours per panel during live operations. No system integration. No operational changes.\n\nOur 5% savings guarantee: 50,000+ installations worldwide, never achieved below 5% reduction. Full refund if minimum not met.\n\nThe Vegas casino hit 8.59% - nearly double our minimum guarantee.\n\nFor The Venetian, even our 5% minimum would mean $7,000,000/year in recurring savings.\n\nWant to review the ROI model for your specific electrical load?"
+        },
+        {
+          "email_number": 5,
+          "subject": "30-Day Metered Pilot - Same Format as Vegas Casino",
+          "body": "Would you be open to a 30-day metered pilot - same format that delivered 8.59% reduction with zero downtime for the Vegas property?\n\nHere's how it works:\n\n\u2022 Install meters on select panels during live operations\n\u2022 30-day baseline measurement\n\u2022 Pre-defined success criteria (minimum 5% reduction)\n\u2022 Full refund if savings don't meet minimum\n\u2022 Zero operational disruption\n\nThis removes all risk while proving results in your specific environment.\n\nThe Vegas casino started with a similar pilot before expanding property-wide.\n\nEven at our 5% minimum guarantee, you're looking at $583,333/month in operational cost reduction.\n\nReady to review the pilot terms?"
+        }
+      ],
+      "facilities": [
+        {
+          "subject": "Quick question about your gaming floor's THD costs",
+          "body": "Quick question - has anyone shown you what 15-25% current THD from your gaming floor is actually costing in demand charges?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months  \n\u2022 Zero downtime installation\n\u2022 Addressed harmonic distortion at the source\n\nBased on The Venetian's ~$140,000,000 annual energy spend, similar results would mean $12,026,000/year.\n\nThe technology addresses the root cause gaming equipment inefficiency - the 15-25% harmonic distortion that LED upgrades and BMS can't touch.\n\nWorth seeing the third-party verification data?"
+        },
+        {
+          "subject": "Here's why your energy projects probably underdelivered",
+          "body": "Here's why your energy projects probably underdelivered on ROI...\n\nYour gaming equipment (slots, VFDs on HVAC) creates 15-25% current THD. Compare that to office buildings at 5-8% THD.\n\nThis harmonic distortion inflates your apparent power (kVA), which drives higher demand readings on your utility meter.\n\nBMS optimizations and LED retrofits can't address this fundamental power quality issue - they're downstream solutions to an upstream electrical problem.\n\nIt's like treating symptoms while the root cause keeps burning money every month.\n\nWant the harmonic distortion analysis that shows exactly how this impacts facilities like yours?"
+        },
+        {
+          "subject": "The power quality benefits facilities teams love most",
+          "body": "The savings are great, but here's what most facilities teams find even more valuable...\n\nCleaner power quality means:\n\n\u2022 Extended equipment life across your entire facility\n\u2022 Reduced voltage fluctuations that stress sensitive electronics\n\u2022 Better power factor without installing capacitor banks\n\u2022 Fewer nuisance trips and electrical anomalies\n\nWhen you eliminate harmonics at the source, everything downstream runs more efficiently and lasts longer.\n\nYour maintenance team will notice the difference in equipment reliability within months.\n\nWant to review the technical specifications that show how solid-state filtration delivers these power quality improvements?"
+        },
+        {
+          "subject": "How it eliminates harmonics at the source",
+          "body": "Here's the technical breakdown of how it eliminates harmonics at the source...\n\nSolid-state filtration installed at your electrical panel level. No moving parts, no maintenance requirements, 20+ year operational life.\n\nIt actively cancels the harmonic currents your gaming equipment generates before they can inflate your demand readings.\n\n**5% GUARANTEE:** 50,000+ installations worldwide, never achieved below 5% reduction, full refund if we don't hit minimum.\n\nThe engineering is proven, the results are consistent, the risk is zero.\n\nShould I send the technical specs to your engineering team for review?"
+        },
+        {
+          "subject": "30-day metered pilot with power quality monitoring?",
+          "body": "Would you be open to a 30-day metered pilot with full power quality monitoring?\n\nSame approach as the Vegas casino - we install meters before and after, track both energy reduction and power quality improvements in real-time.\n\nPre-defined success criteria, third-party verification, with our 5% minimum guarantee backing the results.\n\nIf it doesn't deliver measurable improvements to both your demand charges and power quality, we remove it at no cost.\n\nLow risk, high visibility, quantified results.\n\nWant to review the pilot terms and monitoring protocol?"
+        }
+      ],
+      "esg": [
+        {
+          "subject": "Carbon targets + profitability at The Venetian?",
+          "body": "Quick question - are you finding ways to hit carbon reduction targets that actually improve profitability, or is it always a trade-off?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months  \n\u2022 25-40% IRR\n\nBased on The Venetian's profile, similar results would mean:\n\n\u2022 ~84,182 tons CO2 reduction annually\n\u2022 $12,026,000/year cost savings\n\nThe technology addresses energy waste at the source - delivering measurable sustainability impact that actually improves profitability.\n\nWould you like to see the third-party verification report?"
+        },
+        {
+          "subject": "Board-ready carbon reduction data",
+          "body": "Here's something your board might find interesting about measurable carbon reduction...\n\nMost sustainability initiatives require significant upfront investment with unclear ROI. But third-party verified results from a Vegas casino show a different path:\n\n\u2022 8.59% energy reduction = quantifiable for ESG reporting\n\u2022 Verified over 12 months = credible board data\n\u2022 25-40% IRR = sustainability that pays for itself\n\nFor The Venetian's scale, this translates to ~84,182 tons CO2 reduction - meaningful progress toward your 30-50% carbon reduction commitments.\n\nThe verification methodology meets institutional reporting standards.\n\nWant to download the carbon reduction analysis?"
+        },
+        {
+          "subject": "Why most casino sustainability programs miss the mark",
+          "body": "Most sustainability programs focus on the wrong metric for casinos...\n\nEnergy efficiency projects target kWh consumption. But demand reduction (kW) has exponentially higher carbon impact - especially with gaming equipment's harmonic distortion.\n\nA Vegas casino proved this:\n\n\u2022 8.59% kW reduction at the source\n\u2022 Continuous carbon reduction without operational changes\n\u2022 Third-party verified impact for ESG reporting\n\nYour gaming equipment creates electrical inefficiencies that compound across 7 million square feet. Address the source, multiply the impact.\n\nFor The Venetian: ~84,182 tons CO2 reduction potential.\n\nSee the carbon impact model?"
+        },
+        {
+          "subject": "Sustainability + EBITDA growth?",
+          "body": "What if you could accelerate carbon reduction AND improve EBITDA?\n\nSolid-state energy filtration eliminates harmonic distortion in casino electrical systems:\n\n\u2022 Continuous carbon reduction (no behavior changes required)\n\u2022 25-40% IRR verified by third parties\n\u2022 Zero operational disruption\n\n**5% GUARANTEE:** 50,000+ installations worldwide, never achieved below 5% reduction, full refund if minimum not met.\n\nProjected for The Venetian: $12M+ annual savings, 84,182 tons CO2 reduction.\n\nThis isn't choosing between sustainability and profitability - it's achieving both simultaneously.\n\nReview the ESG impact analysis?"
+        },
+        {
+          "subject": "30-day pilot with board-ready verification?",
+          "body": "Would you be open to a 30-day pilot with third-party verification for board reporting?\n\nSame approach as the Vegas casino case study:\n\n\u2022 Pre-defined success criteria (energy + carbon metrics)\n\u2022 Independent verification for ESG reporting credibility\n\u2022 5% minimum guarantee (full refund if not achieved)\n\u2022 Zero operational risk\n\nThe pilot generates board-ready data on measurable carbon reduction while proving ROI.\n\nFor The Venetian's profile: potential to demonstrate significant progress on carbon commitments while improving profitability.\n\nReview the pilot terms?"
+        }
+      ]
+    },
+    "num_sequences_generated": 4,
+    "num_emails_per_sequence": 5,
+    "total_emails_generated": 20
+  },
+  {
+    "company_profile": {
+      "company_name": "Palazzo Resort Hotel Casino",
+      "domain": "palazzo.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 6000,
+      "estimated_sqft": 7000000,
+      "estimated_energy_spend": 140000000.0,
+      "annual_savings_dollars": 12026000.0,
+      "monthly_savings_dollars": 1002167.0,
+      "five_year_savings": 60130000.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 84182.0
+    },
+    "composite_score": 79.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequences": {
+      "cfo": [
+        {
+          "email_number": 1,
+          "subject": "Palazzo's $12M EBITDA opportunity hiding in demand charges?",
+          "body": "Quick question - do you know what percentage of Palazzo's $140M utility bill is demand charges vs actual energy consumption?\n\nA Las Vegas casino recently achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months  \n\u2022 25-40% IRR, 14-month payback\n\nBased on your estimated annual energy spend, similar results would mean:\n\n\u2022 Projected demand charge savings: $1,082,340/year\n\u2022 Total EBITDA improvement: $12,026,000/year\n\nThe technology addresses harmonic distortion from gaming equipment - the hidden driver of inflated demand charges that LED upgrades and BMS systems can't touch.\n\nPalazzo's profile suggests similar margin improvement is mathematically possible.",
+          "cta": "See the third-party verification data",
+          "send_delay_days": 0
+        },
+        {
+          "email_number": 2,
+          "subject": "Why Palazzo pays 3-5x higher demand rates than office buildings",
+          "body": "Here's something most casino CFOs find surprising about their energy expenses...\n\nDemand charges typically represent 30-50% of your total utility bill. One 15-minute spike in electrical demand sets your rate for the entire month.\n\nCasinos pay 3-5x higher demand rates than office buildings because gaming equipment creates electrical noise (harmonic distortion) that inflates your peak demand readings.\n\nThis isn't about reducing energy consumption - it's about cleaning up the electrical signal so you're not overpaying for demand you're not actually using.\n\nAt $140M annual energy spend, even small demand reductions create massive EBITDA impact. It's essentially found money that drops straight to your bottom line.",
+          "cta": "See your estimated demand charge breakdown",
+          "send_delay_days": 3
+        },
+        {
+          "email_number": 3,
+          "subject": "Why your LED and BMS projects underdelivered on ROI promises",
+          "body": "Most casinos have tried LED upgrades and building management systems. They help with kWh consumption, but they can't touch your demand charges.\n\nHere's why: Gaming equipment creates 15-25% harmonic distortion in your electrical system. This electrical \"noise\" makes your facility appear to consume more power than it actually does.\n\nUtilities charge you for this phantom demand every month.\n\nLED and BMS projects address energy usage but ignore the root cause of inflated demand charges - which is often the bigger expense.\n\nThat Vegas casino I mentioned? Their 8.59% demand reduction delivered 25-40% IRR because it targeted the problem traditional energy solutions miss entirely.",
+          "cta": "Download the demand charge analysis",
+          "send_delay_days": 6
+        },
+        {
+          "email_number": 4,
+          "subject": "What would you do with an extra $1.08M/year in EBITDA?",
+          "body": "The technology works through solid-state filtration installed at your electrical panels. Zero downtime, no integration complexity, no operational risk.\n\nHere's what makes this different: 50,000+ installations worldwide, never achieved below 5% reduction. Full refund if we don't hit the 5% minimum.\n\nFor context - most gaming floor equipment delivers 8-15% IRR. This typically delivers 25-40% IRR with 14-month payback.\n\nThe math is straightforward: cleaner electrical signal = lower demand charges = direct EBITDA improvement.\n\nNo behavior changes, no operational adjustments needed.",
+          "cta": "Review the ROI model",
+          "send_delay_days": 9
+        },
+        {
+          "email_number": 5,
+          "subject": "30-day metered pilot - same format that delivered 8.59% reduction",
+          "body": "I'm curious if you'd be open to a 30-day metered pilot - same format that delivered the verified 8.59% reduction for that Vegas property.\n\nPre-defined success criteria, full transparency on results. If we don't hit the 5% minimum reduction, full refund.\n\nThe pilot would show exactly what demand charge savings are possible at Palazzo before any major commitment.\n\nWorst case: you get definitive data on your facility's potential. Best case: you unlock $12M+ in annual EBITDA improvement with 25-40% IRR.\n\nPretty compelling risk-reward ratio for a 30-day test.",
+          "cta": "Review pilot terms",
+          "send_delay_days": 12
+        }
+      ],
+      "operations": [
+        {
+          "email": 1,
+          "subject": "Zero-downtime way to cut $12M from your largest operating expense",
+          "body": "Quick question - what would you do with an extra $12,026,000/year in recurring cost savings that didn't require any operational changes?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Zero downtime installation during live gaming operations \n\u2022 Third-party verified over 12 months\n\u2022 14-month payback period\n\nBased on Palazzo's estimated $140,000,000 annual energy spend, similar results would mean $12,026,000/year in recurring savings.\n\nReaching out because your operations profile suggests the same results are possible. The technology installs in live electrical panels without touching gaming systems - protecting your 24/7 operations while cutting your largest expense.\n\nWant to see the installation process overview?"
+        },
+        {
+          "email": 2,
+          "subject": "Why most energy solutions won't work in casino operations",
+          "body": "Most energy solutions require downtime or system integration. Here's why this is different...\n\nCasino operations can't tolerate power interruptions - even seconds of downtime means lost revenue, frustrated guests, and potential security issues.\n\nThis solid-state technology installs directly in live electrical panels without any power interruption. No modifications to gaming systems, surveillance, or security infrastructure.\n\nThe Vegas casino kept all 2,400 slot machines, 140 table games, and critical systems running throughout the entire installation process.\n\nResult? 8.59% demand reduction with zero operational impact.\n\nFor Palazzo's scale, that's potentially $1,002,167/month in recurring savings without touching a single gaming system.\n\nWant to see the zero-downtime installation video?"
+        },
+        {
+          "email": 3,
+          "subject": "The energy solution you'll never have to think about",
+          "body": "The best operational improvements are the ones you never have to think about...\n\nThis solid-state technology has no moving parts, requires zero maintenance, and operates 24/7 without any operator intervention. Once installed, it's completely transparent to all your systems.\n\nNo integration with gaming platforms, no impact on surveillance systems, no effect on security infrastructure. Your teams continue operating exactly as they always have.\n\nThe Vegas casino hasn't touched their installation once in 12+ months - it just keeps delivering 8.59% demand reduction, month after month.\n\nFor operations directors, it's the ideal solution: significant cost reduction without adding complexity to your already demanding environment.\n\nReady to review the technical specifications?"
+        },
+        {
+          "email": 4,
+          "subject": "How it turns your largest expense into predictable savings",
+          "body": "Here's how it turns your largest operational expense into predictable savings...\n\nThe technology addresses harmonic distortion at the electrical panel level, reducing apparent power (kVA) which directly lowers your demand charges - your biggest cost component.\n\nWe've completed 50,000+ installations worldwide and never achieved below 5% reduction. That's why we guarantee minimum 5% savings with full refund if not met.\n\nFor Palazzo, even our minimum guarantee would mean $7,000,000/year in recurring savings.\n\nThe Vegas casino hit 8.59% - significantly above our minimum - delivering $12+ million annually in their case.\n\nWant to review the ROI model for your specific operation?"
+        },
+        {
+          "email": 5,
+          "subject": "30-day pilot - same format that delivered 8.59% with zero downtime",
+          "body": "Would you be open to a 30-day metered pilot - same format that delivered 8.59% reduction with zero downtime for the Vegas property?\n\nWe'd install monitoring equipment to measure your baseline, then install the technology in one electrical section during live operations. Pre-defined success criteria, independent verification, zero operational disruption.\n\nSame 5% minimum guarantee applies - full refund if savings don't meet threshold.\n\nGiven Palazzo's scale, even hitting our minimum guarantee means $583,333/month in recurring cost reduction from your largest operating expense.\n\nThe Vegas results suggest much higher potential, but the pilot removes all risk while proving actual performance in your specific environment.\n\nReady to review the pilot terms?"
+        }
+      ],
+      "facilities": [
+        {
+          "email_number": 1,
+          "subject": "8.59% demand reduction - Vegas casino verification",
+          "body": "Quick question - has anyone shown you what 15-25% current THD from your gaming floor is actually costing in demand charges?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months  \n\u2022 Zero downtime installation\n\u2022 Addressed harmonic distortion at the source\n\nBased on Palazzo's ~$140,000,000 annual energy spend, similar results would mean $12,026,000/year.\n\nThe technology addresses the root cause gaming equipment inefficiency - the 15-25% harmonic distortion that LED upgrades and BMS can't touch.\n\nWant to see the third-party verification data?"
+        },
+        {
+          "email_number": 2,
+          "subject": "Why your energy projects probably underdelivered",
+          "body": "Here's why your energy projects probably underdelivered on ROI...\n\nYour gaming equipment (slots, VFDs on HVAC systems) creates 15-25% total harmonic distortion. Compare that to typical office buildings at 5-8% THD.\n\nThis distortion inflates your apparent power (kVA), which drives up demand readings even when you're using less actual power (kW).\n\nThat's why LED retrofits and BMS upgrades don't deliver projected savings in casinos - they reduce consumption but can't address the harmonic distortion inflating your demand charges.\n\nIt's a power quality issue that requires addressing harmonics at the electrical panel level.\n\nDownload the harmonic distortion analysis for gaming facilities?"
+        },
+        {
+          "email_number": 3,
+          "subject": "Beyond savings - the power quality benefits",
+          "body": "The savings are great, but here's what most facilities teams find even more valuable...\n\nCleaner power quality means:\n\n\u2022 Extended equipment life (less stress on transformers, motors, electronics)\n\u2022 Reduced voltage fluctuations that cause nuisance trips\n\u2022 Improved power factor without installing capacitor banks\n\u2022 Fewer power quality complaints from tenants/operations\n\nWhen you eliminate harmonic distortion at the source, everything downstream runs more efficiently and lasts longer.\n\nThe Vegas casino reported noticeably fewer equipment issues after installation - something you can't put a price tag on in a 24/7 operation.\n\nWant to review the technical specifications?"
+        },
+        {
+          "email_number": 4,
+          "subject": "How it eliminates harmonics + 5% guarantee",
+          "body": "Here's the technical breakdown of how it eliminates harmonics at the source...\n\nSolid-state filtration installed at your electrical panel level. It actively cancels harmonic currents before they reach your utility meter.\n\n\u2022 No moving parts, no maintenance required\n\u2022 20+ year operational life\n\u2022 Continuous real-time harmonic correction\n\n**5% GUARANTEE:** 50,000+ installations worldwide, never achieved below 5% reduction. Full refund if savings don't meet 5% minimum.\n\nThe technology is proven - it's just a matter of quantifying your specific harmonic profile and sizing appropriately.\n\nCan I send the technical specs to your engineering team?"
+        },
+        {
+          "email_number": 5,
+          "subject": "30-day metered pilot with power quality monitoring?",
+          "body": "Would you be open to a 30-day metered pilot with full power quality monitoring?\n\nSame approach as the Vegas casino verification:\n\n\u2022 Install power quality meters before/during/after\n\u2022 Monitor THD reduction and demand impact\n\u2022 Document equipment performance improvements\n\u2022 Pre-defined success criteria (5% minimum guarantee)\n\nZero risk - if it doesn't perform as projected, we remove it at no cost.\n\nGiven Palazzo's energy profile, even conservative results would justify expansion across your electrical infrastructure.\n\nThe pilot eliminates any guesswork and gives your team concrete data for decision-making.\n\nWant to review the pilot terms?"
+        }
+      ],
+      "esg": [
+        {
+          "subject": "Carbon reduction that improves profitability?",
+          "body": "Quick question - are you finding ways to hit carbon reduction targets that actually improve profitability, or is it always a trade-off?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months\n\u2022 25-40% IRR\n\nBased on Palazzo Resort Hotel Casino's profile, similar results would mean:\n\n\u2022 ~84,182 tons CO2 reduction annually\n\u2022 $12,026,000/year cost savings\n\nThe technology addresses energy waste at the source - delivering measurable sustainability impact that actually improves profitability.\n\nWould you like to see the third-party verification report?"
+        },
+        {
+          "subject": "Board-ready carbon reduction data",
+          "body": "Here's something your board might find interesting about measurable carbon reduction...\n\nMost sustainability initiatives struggle with credible reporting. This Las Vegas casino generated board-ready data:\n\n\u2022 8.59% energy reduction (third-party verified)\n\u2022 12-month continuous measurement\n\u2022 Quantifiable carbon impact for ESG reporting\n\u2022 Zero operational disruption\n\nFor Palazzo Resort Hotel Casino, this translates to ~84,182 tons CO2 reduction - the kind of measurable progress that supports your 30-50% carbon reduction commitments while strengthening financial performance.\n\nThe verification methodology meets audit standards for ESG reporting.\n\nInterested in the carbon reduction analysis for your facility?"
+        },
+        {
+          "subject": "Why most casino sustainability programs miss the mark",
+          "body": "Most sustainability programs focus on the wrong metric for casinos...\n\nEnergy efficiency typically targets consumption (kWh), but demand reduction (kW) delivers higher carbon impact - especially with gaming equipment's harmonic distortion patterns.\n\nThis Vegas casino discovered the difference:\n\n\u2022 8.59% demand reduction (not just efficiency)\n\u2022 Continuous carbon reduction 24/7\n\u2022 Higher ROI than traditional energy projects\n\u2022 Measurable ESG impact\n\nFor Palazzo Resort Hotel Casino's 7M sqft operation, demand optimization could deliver ~84,182 tons CO2 reduction annually - while improving your bottom line.\n\nWant to see the carbon impact model for gaming operations?"
+        },
+        {
+          "subject": "Sustainability + EBITDA growth",
+          "body": "What if you could accelerate carbon reduction AND improve EBITDA?\n\nSolid-state energy filtration delivers continuous carbon reduction without operational trade-offs:\n\n\u2022 Addresses harmonic distortion at source\n\u2022 25-40% IRR (sustainability pays for itself)\n\u2022 **5% GUARANTEE:** 50,000+ installations worldwide, never achieved below 5% reduction, full refund if minimum not met\n\nFor Palazzo Resort Hotel Casino: projected ~84,182 tons CO2 reduction with $12M+ annual savings.\n\nThis isn't about choosing between sustainability and profitability - it's about alignment.\n\nReady to review the ESG impact analysis?"
+        },
+        {
+          "subject": "30-day pilot with board-ready verification",
+          "body": "Would you be open to a 30-day pilot with third-party verification for board reporting?\n\nSame approach as the Vegas casino case study:\n\n\u2022 Pre-defined success criteria (energy + carbon)\n\u2022 Independent measurement and verification\n\u2022 Board-ready ESG impact documentation\n\u2022 5% minimum guarantee\n\nFor Palazzo Resort Hotel Casino, this could validate ~84,182 tons annual CO2 reduction potential while demonstrating measurable ROI.\n\nLow risk, high credibility data for your sustainability commitments.\n\nShall I send over the pilot terms and verification methodology?"
+        }
+      ]
+    },
+    "num_sequences_generated": 4,
+    "num_emails_per_sequence": 5,
+    "total_emails_generated": 20
+  },
+  {
+    "company_profile": {
+      "company_name": "MGM Grand Las Vegas",
+      "domain": "mgmgrand.mgmresorts.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 9000,
+      "estimated_sqft": 6852000,
+      "estimated_energy_spend": 137040000.0,
+      "annual_savings_dollars": 11771736.0,
+      "monthly_savings_dollars": 980978.0,
+      "five_year_savings": 58858680.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 82402.2
+    },
+    "composite_score": 79.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequences": {
+      "cfo": [
+        {
+          "email_number": 1,
+          "subject": "MGM Grand's $12.3M demand charge opportunity",
+          "body": "Quick question - do you know what percentage of MGM Grand's utility bill is demand charges vs actual energy consumption? Most casino CFOs are surprised it's 30-50%.\n\nA Las Vegas casino recently achieved these verified results with harmonic filtration:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months  \n\u2022 25-40% IRR, 14-month payback\n\nBased on your ~$137M annual energy spend, similar results would mean:\n\n\u2022 Estimated demand charge savings: $1,059,456/year\n\u2022 Direct EBITDA improvement: $11,771,736/year\n\nThis addresses the root cause that LED upgrades and BMS systems can't touch - harmonic distortion from gaming equipment that inflates your demand charges.",
+          "cta": "See the third-party verification data",
+          "send_delay_days": 0
+        },
+        {
+          "email_number": 2,
+          "subject": "The hidden margin leak in your utility bill",
+          "body": "Here's something that might surprise you about MGM Grand's energy expenses - demand charges likely represent $12.3M of your annual bill.\n\nHere's how it works: One 15-minute spike in electrical demand sets your rate for the entire month. Gaming equipment creates constant harmonic distortion, artificially inflating these peaks.\n\nThis isn't just a cost reduction play - it's pure margin improvement. Every dollar saved on demand charges falls straight to EBITDA with zero impact on operations.\n\nCasinos typically pay 3-5x higher demand rates than office buildings, making this your biggest controllable expense opportunity.",
+          "cta": "See your estimated demand charge breakdown",
+          "send_delay_days": 3
+        },
+        {
+          "email_number": 3,
+          "subject": "Why your energy projects underdeliver on ROI",
+          "body": "Most casinos have tried LED upgrades and BMS systems. They help with kWh consumption, but they can't touch your demand charges - which represent 30-50% of your bill.\n\nThe root cause is harmonic distortion from gaming equipment (typically 15-25% THD). This creates artificial demand spikes that inflate your monthly rates.\n\nTraditional energy solutions miss this entirely. That's why energy projects often underdeliver on their ROI promises to the CFO.\n\nThe Vegas casino that achieved 8.59% demand reduction? They addressed harmonics directly at the source - gaming equipment electrical distortion.",
+          "cta": "Download the demand charge analysis",
+          "send_delay_days": 6
+        },
+        {
+          "email_number": 4,
+          "subject": "What would you do with $1M extra EBITDA?",
+          "body": "What would you do with an extra $1,059,456/year falling straight to EBITDA?\n\nSolid-state harmonic filtration installs at your electrical panels with zero downtime. No integration complexity, no operational risk.\n\nHere's our guarantee: 50,000+ installations worldwide, never achieved below 5% reduction, full refund if we don't hit the minimum.\n\nThe IRR? 25-40% beats most gaming floor equipment returns. And unlike slot machines, this improves your margins every month for 20+ years.\n\nPure margin improvement with a money-back guarantee.",
+          "cta": "Review the ROI model",
+          "send_delay_days": 9
+        },
+        {
+          "email_number": 5,
+          "subject": "30-day pilot with pre-defined success criteria",
+          "body": "I'm curious if you'd be open to a 30-day metered pilot - same format that delivered 8.59% reduction for the Vegas property.\n\nPre-defined success criteria with full transparency. Independent meter verification. If we don't hit our 5% minimum guarantee, full refund.\n\nTypical results: 25-40% IRR, 14-month payback, $1M+ annual EBITDA improvement for properties your size.\n\nZero operational risk, zero downtime, zero integration complexity. Just measurable margin improvement with a money-back guarantee.",
+          "cta": "Review pilot terms",
+          "send_delay_days": 12
+        }
+      ],
+      "operations": [
+        {
+          "email_number": 1,
+          "subject": "Zero-downtime way to cut $11.7M from operations",
+          "body": "Quick question - what would you do with an extra $11,771,736/year in recurring cost savings that didn't require any operational changes?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Zero downtime installation during live gaming operations\n\u2022 Third-party verified over 12 months\n\u2022 14-month payback period\n\nBased on MGM Grand's estimated $137,040,000 annual energy spend, similar results would mean $11,771,736/year in recurring savings.\n\nReaching out because your operations profile suggests the same results are possible. The technology installs in live electrical panels without touching gaming systems - protecting your 24/7 operations while cutting your largest expense.\n\nWant to see the installation process overview?"
+        },
+        {
+          "email_number": 2,
+          "subject": "Why casino operations can't tolerate downtime",
+          "body": "Most energy solutions require downtime or system integration. Here's why this is different...\n\nCasino operations run 24/7/365 - every second of downtime costs revenue. Traditional energy upgrades mean shutting down sections, coordinating with gaming systems, and risking operational disruption.\n\nTune filters install directly in live electrical panels with zero power interruption. No gaming system modifications. No integration requirements. No coordination with surveillance or security systems.\n\nThe Vegas casino maintained full operations throughout installation - gaming floors, restaurants, hotels, everything stayed online while achieving 8.59% demand reduction.\n\nThis is why casinos choose this approach - operational protection with guaranteed savings.\n\nWant to see the zero-downtime installation video?"
+        },
+        {
+          "email_number": 3,
+          "subject": "The energy solution you never think about",
+          "body": "The best operational improvements are the ones you never have to think about...\n\nTune filters are solid-state technology - no moving parts, no scheduled maintenance, no operator intervention required. Once installed, they work 24/7 reducing your demand charges without any ongoing operational burden.\n\nCompletely transparent to gaming systems, surveillance, security, and hotel operations. Your teams won't even know they're there, except for the monthly savings showing up on utility bills.\n\nThe Vegas property hasn't touched their system once since installation - just consistent 8.59% demand reduction month after month for over a year.\n\nThat's operational simplicity: install once, save forever, never think about it again.\n\nReady to review the technical specifications?"
+        },
+        {
+          "email_number": 4,
+          "subject": "How it turns your biggest expense into savings",
+          "body": "Here's how it turns your largest operational expense into predictable savings...\n\nTune filters address harmonic distortion at the electrical panel level, reducing apparent power (kVA) which directly lowers your demand charges - typically your biggest utility cost component.\n\nWe offer a 5% savings guarantee backed by 50,000+ installations worldwide. We've never achieved below 5% reduction. If you don't hit the 5% minimum, full refund.\n\nFor MGM Grand's ~68,520 kW peak demand, even our guaranteed minimum of 5% means $8,352,000/year in recurring savings. The Vegas casino achieved 8.59% - nearly double our guarantee.\n\nWant to review the ROI model for your specific operation?"
+        },
+        {
+          "email_number": 5,
+          "subject": "30-day pilot with zero operational risk",
+          "body": "Would you be open to a 30-day metered pilot - same format that delivered 8.59% reduction with zero downtime for the Vegas property?\n\nHere's how it works:\n\u2022 Install meters to establish baseline demand\n\u2022 Install filters in selected panels during live operations\n\u2022 Measure results over 30 days\n\u2022 Pre-defined success criteria (minimum 5% reduction)\n\u2022 Full refund guarantee if minimum not met\n\nNo operational disruption during pilot. No impact on gaming, security, or hotel systems. Just measurable, verified results.\n\nThe Vegas casino started with the same pilot format before expanding facility-wide.\n\nReady to review the pilot terms?"
+        }
+      ],
+      "facilities": [
+        {
+          "subject": "Quick question about your gaming floor's THD costs",
+          "body": "Quick question - has anyone shown you what 15-25% current THD from your gaming floor is actually costing in demand charges?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months  \n\u2022 Zero downtime installation\n\u2022 Addressed harmonic distortion at the source\n\nBased on MGM Grand Las Vegas's ~$137,040,000 annual energy spend, similar results would mean $11,771,736/year.\n\nThe technology addresses the root cause gaming equipment inefficiency - the 15-25% harmonic distortion that LED upgrades and BMS can't touch.\n\nWould you like to see the third-party verification data?"
+        },
+        {
+          "subject": "Why your energy projects probably underdelivered on ROI",
+          "body": "Here's why your energy projects probably underdelivered on ROI...\n\nYour gaming equipment (slots, VFDs on HVAC) creates 15-25% total harmonic distortion. Compare that to office buildings at 5-8% THD.\n\nThis distortion inflates your apparent power (kVA), which drives up demand readings even when you're using less actual power (kW).\n\nThat's why LED retrofits and BMS upgrades often fall short of projections - they reduce consumption but can't address the underlying power quality issues creating phantom demand.\n\nThe harmonic distortion is literally making your meter read higher than your true power usage.\n\nWant to download our harmonic distortion analysis for casino facilities?"
+        },
+        {
+          "subject": "What facilities teams find more valuable than savings",
+          "body": "The savings are great, but here's what most facilities teams find even more valuable...\n\nCleaner power quality means:\n\n\u2022 Extended equipment life across your entire facility\n\u2022 Reduced voltage fluctuations that stress sensitive electronics\n\u2022 Fewer nuisance trips and equipment failures\n\u2022 Better power factor without adding capacitor banks\n\nWhen you eliminate harmonics at the source, everything downstream runs cleaner. Your UPS systems work less, your motors run cooler, and your power distribution equipment experiences less stress.\n\nIt's like giving your entire electrical system a tune-up that lasts 20+ years.\n\nWould you like to review the technical specifications?"
+        },
+        {
+          "subject": "Technical breakdown: eliminating harmonics at the source",
+          "body": "Here's the technical breakdown of how it eliminates harmonics at the source...\n\nSolid-state filtration installed at your electrical panel level. No moving parts, no maintenance required, 20+ year operational life.\n\nIt actively cancels harmonic currents before they reach your meter, reducing both your demand charges and improving power quality throughout your facility.\n\n**5% GUARANTEE:** 50,000+ installations worldwide, we've never achieved below 5% reduction. Full refund if savings don't meet minimum.\n\nThe technology is proven, simple, and addresses the root cause that other efficiency measures can't touch.\n\nShould I send the specs to your engineering team for review?"
+        },
+        {
+          "subject": "30-day metered pilot with power quality monitoring?",
+          "body": "Would you be open to a 30-day metered pilot with full power quality monitoring?\n\nSame approach as the Las Vegas casino verification - we install monitoring equipment, establish baseline THD and demand readings, then measure results.\n\nPre-defined success criteria:\n\u2022 Minimum 5% demand reduction (guaranteed)\n\u2022 Documented THD improvement\n\u2022 Zero operational disruption\n\nIf results don't meet the 5% minimum, we remove everything at no cost.\n\n50,000+ installations worldwide - we've never had to invoke the guarantee, but it removes all risk from your side.\n\nWant to review the pilot terms?"
+        }
+      ],
+      "esg": [
+        {
+          "subject": "Carbon targets + profitability at MGM Grand Las Vegas?",
+          "body": "Quick question - are you finding ways to hit carbon reduction targets that actually improve profitability, or is it always a trade-off?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months\n\u2022 25-40% IRR\n\nBased on MGM Grand Las Vegas's profile, similar results would mean:\n\n\u2022 ~82,402 tons CO2 reduction annually\n\u2022 $11,771,736/year cost savings\n\nReaching out because your ESG leadership + this ROI potential could accelerate both sustainability targets and EBITDA growth.\n\nWould you like to see the third-party verification report?"
+        },
+        {
+          "subject": "Third-party verified: 82,402 tons CO2 reduction potential",
+          "body": "Here's something your board might find interesting about measurable carbon reduction...\n\nThat Las Vegas casino result I mentioned? It's third-party verified - which means credible ESG reporting:\n\n\u2022 8.59% energy reduction = quantifiable carbon impact\n\u2022 Continuous measurement over 12 months\n\u2022 Verified methodology for board presentations\n\nFor MGM Grand Las Vegas, this translates to ~82,402 tons CO2 reduction annually - supporting your 30-50% carbon reduction commitments while improving profitability.\n\nThe technology works on gaming equipment harmonic distortion - the biggest energy waste source casinos face.\n\nReady to download the carbon reduction analysis?"
+        },
+        {
+          "subject": "Why most casino sustainability programs miss the mark",
+          "body": "Most sustainability programs focus on the wrong metric for casinos...\n\nThey target kWh (consumption) when kW (demand) reduction has 3x higher carbon impact.\n\nHere's why:\n\u2022 Gaming equipment creates harmonic distortion\n\u2022 This forces electrical systems to work harder\n\u2022 Peak demand penalties = highest carbon footprint\n\nThat Vegas casino's 8.59% kW reduction? It came from addressing harmonics at the source - not changing operations or guest experience.\n\nResult: Immediate carbon reduction + cost savings, not the usual trade-off.\n\nFor MGM Grand's scale, this approach could deliver ~82,402 tons CO2 reduction annually.\n\nWant to see the carbon impact model?"
+        },
+        {
+          "subject": "Sustainability that accelerates EBITDA growth",
+          "body": "What if you could accelerate carbon reduction AND improve EBITDA?\n\nOur solid-state filtration technology delivers continuous carbon reduction with zero operational trade-offs:\n\n\u2022 Addresses energy waste at the electrical source\n\u2022 25-40% IRR (sustainability pays for itself)\n\u2022 **5% GUARANTEE:** 50,000+ installations worldwide, never achieved below 5% reduction, full refund if we don't hit minimum\n\nFor MGM Grand Las Vegas: ~$11.8M annual savings + 82,402 tons CO2 reduction.\n\nThis isn't about choosing between profitability and sustainability - it's about achieving both simultaneously.\n\nReady to review the ESG impact analysis?"
+        },
+        {
+          "subject": "30-day pilot with board-ready verification?",
+          "body": "Would you be open to a 30-day pilot with third-party verification for board reporting?\n\nSame approach as that Vegas casino:\n\u2022 Pre-defined success criteria (energy + carbon)\n\u2022 Third-party measurement and verification\n\u2022 5% minimum guarantee (full refund if not achieved)\n\u2022 Zero operational disruption\n\nResult: Board-ready data on carbon reduction + financial impact.\n\nFor MGM Grand's profile, we're projecting ~82,402 tons CO2 reduction annually with $11.8M cost savings.\n\nLow risk, high impact - exactly what ESG initiatives should deliver.\n\nShall I send over the pilot terms for review?"
+        }
+      ]
+    },
+    "num_sequences_generated": 4,
+    "num_emails_per_sequence": 5,
+    "total_emails_generated": 20
+  },
+  {
+    "company_profile": {
+      "company_name": "WinStar World Casino and Resort",
+      "domain": "winstarworldcasino.com",
+      "location": "Thackerville, OK",
+      "employee_count": 7000,
+      "estimated_sqft": 5000000,
+      "estimated_energy_spend": 100000000.0,
+      "annual_savings_dollars": 8590000.0,
+      "monthly_savings_dollars": 715833.0,
+      "five_year_savings": 42950000.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 60130.0
+    },
+    "composite_score": 76.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequences": {
+      "cfo": [
+        {
+          "email_number": 1,
+          "subject": "WinStar's hidden $773K EBITDA opportunity",
+          "body": "Quick question - do you know what percentage of WinStar's utility bill is demand charges vs actual energy consumption?\n\nA Las Vegas casino recently achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months\n\u2022 25-40% IRR, 14-month payback\n\nBased on your ~$100,000,000 annual energy spend, similar results would mean:\n\n\u2022 Estimated demand charge savings: $773,100/year\n\u2022 Direct EBITDA improvement: $8,590,000/year\n\nThe technology addresses harmonic distortion from gaming equipment - the hidden driver of inflated demand charges that LED upgrades and BMS can't touch.",
+          "cta": "See the third-party verification data",
+          "send_delay_days": 0
+        },
+        {
+          "email_number": 2,
+          "subject": "Why casinos pay 3-5x demand rates (controllable expense)",
+          "body": "Here's something that might interest you about WinStar's energy expenses...\n\nDemand charges are typically 30-50% of your utility bill, but casinos often pay 3-5x higher rates than office buildings due to gaming equipment harmonics.\n\nHere's the margin leak: One 15-minute spike sets your rate for the entire month. It's like paying premium pricing because of a brief equipment surge.\n\nMost CFOs I talk to view this as an uncontrollable expense, but it's actually one of the most predictable EBITDA improvements available. Unlike revenue-side initiatives, this drops straight to the bottom line with mathematical certainty.",
+          "cta": "See your estimated demand charge breakdown",
+          "send_delay_days": 3
+        },
+        {
+          "email_number": 3,
+          "subject": "Why energy projects underdeliver on ROI promises",
+          "body": "Most casinos have tried LED upgrades and BMS systems. They help with kWh consumption, but they can't touch your demand charges.\n\nThe root issue is harmonic distortion - typically 15-25% THD from gaming equipment. This creates inefficient power draw that inflates your peak demand readings.\n\nTraditional energy solutions miss this entirely. They optimize consumption but ignore the power quality issues driving your demand charges higher.\n\nThat's why energy projects often underdeliver on ROI promises. They're addressing symptoms, not the underlying electrical inefficiency that's costing WinStar hundreds of thousands annually.",
+          "cta": "Download the demand charge analysis",
+          "send_delay_days": 6
+        },
+        {
+          "email_number": 4,
+          "subject": "What would you do with $773K/year to EBITDA?",
+          "body": "What would you do with an extra $773,100/year falling straight to EBITDA?\n\nSolid-state filtration installs at your electrical panels with zero downtime. No integration complexity, no operational risk.\n\nHere's our guarantee: 50,000+ installations worldwide, never achieved below 5% reduction. Full refund if we don't hit the minimum.\n\nThe IRR typically beats most gaming floor equipment investments at 25-40%. And unlike capital expenditures with depreciation schedules, this improves your margin profile immediately.\n\nMost CFOs find the risk-adjusted returns compelling compared to other available projects.",
+          "cta": "Review the ROI model",
+          "send_delay_days": 9
+        },
+        {
+          "email_number": 5,
+          "subject": "30-day metered pilot (same format as Vegas property)",
+          "body": "I'm curious if you'd be open to a 30-day metered pilot - same format that delivered 8.59% reduction for the Vegas property.\n\nPre-defined success criteria with full transparency. Third-party metering to verify results before any commitment.\n\nTypical outcomes: 25-40% IRR, 14-month payback. Minimum 5% guarantee with full refund.\n\nFor WinStar's profile, we're projecting $8.59M annual EBITDA improvement based on verified results. Even at our guaranteed minimum, you're looking at $4.3M annually.\n\nThe pilot removes all guesswork and gives you the same verification data the Vegas property used for their decision.",
+          "cta": "Review pilot terms",
+          "send_delay_days": 12
+        }
+      ],
+      "operations": [
+        {
+          "email": 1,
+          "subject": "Zero-downtime way to cut $8.6M from WinStar's energy spend",
+          "body": "Quick question - what would you do with an extra $8,590,000/year in recurring cost savings that didn't require any operational changes?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Zero downtime installation during live gaming operations  \n\u2022 Third-party verified over 12 months\n\u2022 14-month payback period\n\nBased on WinStar's estimated $100,000,000 annual energy spend, similar results would mean $8,590,000/year in predictable savings.\n\nReaching out because your operations profile suggests the same results are possible. The technology installs in live electrical panels without touching gaming systems - protecting your 24/7 uptime while turning your largest expense into profit.\n\nWant to see how the installation process works without disrupting operations?"
+        },
+        {
+          "email": 2,
+          "subject": "Why most energy solutions won't work for casino operations",
+          "body": "Most energy solutions require downtime or system integration. Here's why this is different...\n\nCasino operations can't tolerate even minutes of downtime - every second of power interruption costs thousands in gaming revenue, plus potential regulatory issues.\n\nThis solid-state technology installs directly in live electrical panels while gaming floors stay fully operational. No power interruptions. No integration with gaming systems, surveillance, or security infrastructure.\n\nThe Vegas casino kept every slot machine, table game, and critical system running during the entire installation process. Their operations team didn't need to coordinate shutdowns, backup systems, or player notifications.\n\nIt's designed specifically for facilities that can never go dark - which is exactly why it works so well for casino operations.\n\nInterested in seeing the zero-downtime installation process?"
+        },
+        {
+          "email": 3,
+          "subject": "The energy solution you'll never have to think about",
+          "body": "The best operational improvements are the ones you never have to think about...\n\nOnce installed, this solid-state technology works 24/7 without any operator intervention:\n\n\u2022 No moving parts to maintain or replace\n\u2022 No software updates or system monitoring required\n\u2022 Completely transparent to gaming, security, and surveillance systems\n\u2022 No impact on power quality or system reliability\n\nYour facilities team won't get midnight calls about energy filter failures. Your gaming operations won't see any changes in power delivery. Your surveillance systems won't notice any difference.\n\nIt just quietly reduces your demand charges month after month while your team focuses on what matters - keeping gaming operations running flawlessly.\n\nThat's operational simplicity that actually delivers $715,833/month in cost reduction.\n\nWant to review the technical specifications?"
+        },
+        {
+          "email": 4,
+          "subject": "How it turns your biggest expense into predictable savings",
+          "body": "Here's how it turns your largest operational expense into predictable savings...\n\nThe technology addresses harmonic distortion at the electrical panel level, which reduces apparent power (kVA). Lower kVA means lower demand charges from your utility - that's where the 8.59% reduction comes from.\n\nWith 50,000+ installations worldwide, we've never seen results below 5% reduction. That's why we guarantee it - full refund if savings don't meet the 5% minimum.\n\nFor WinStar's ~50,000 kW peak demand, even our guaranteed minimum of 5% means $5,000,000/year in recurring savings. The Vegas casino's 8.59% suggests you could see significantly more.\n\nNo operational changes required. No maintenance costs. Just predictable monthly reductions in your largest expense line item.\n\nReady to review the ROI model based on your specific demand profile?"
+        },
+        {
+          "email": 5,
+          "subject": "30-day pilot - same format that delivered 8.59% with zero downtime",
+          "body": "Would you be open to a 30-day metered pilot - same format that delivered 8.59% reduction with zero downtime for the Vegas property?\n\nHere's how it works:\n\n\u2022 Install meters to establish baseline demand\n\u2022 Zero-downtime installation in selected electrical panels\n\u2022 30-day measurement period with live gaming operations\n\u2022 Third-party verification of results\n\u2022 5% minimum savings guarantee with full refund\n\nNo operational disruption during the pilot. Gaming floors stay fully operational. Your team can validate results before any larger commitment.\n\nIf you see similar 8.59% results, that's $715,833/month in verified savings starting immediately. If results don't meet our 5% guarantee, full refund - no questions asked.\n\nWant to review the pilot terms and timeline?"
+        }
+      ],
+      "facilities": [
+        {
+          "subject": "Quick question about THD costs at WinStar World Casino",
+          "body": "Quick question - has anyone shown you what 15-25% current THD from your gaming floor is actually costing in demand charges?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months  \n\u2022 Zero downtime installation\n\u2022 Addressed harmonic distortion at the source\n\nBased on WinStar's ~$100,000,000 annual energy spend, similar results would mean $8,590,000/year.\n\nThe technology addresses the root cause gaming equipment inefficiency - the 15-25% harmonic distortion that LED upgrades and BMS can't touch.\n\nWould you like to see the third-party verification data?"
+        },
+        {
+          "subject": "Why your energy projects probably underdelivered on ROI",
+          "body": "Here's why your energy projects probably underdelivered on ROI...\n\nYour gaming equipment (slots, VFDs on HVAC) creates 15-25% total harmonic distortion. Compare that to office buildings at 5-8% THD.\n\nThis distortion inflates your apparent power (kVA), which drives up demand readings even when you're not using more actual power.\n\nBMS optimizations and LED retrofits can't address this electrical inefficiency because they don't filter harmonics at the source.\n\nIt's like trying to improve fuel economy while driving with the parking brake on.\n\nWant to download our harmonic distortion analysis for gaming facilities?"
+        },
+        {
+          "subject": "What facilities teams find more valuable than savings",
+          "body": "The savings are great, but here's what most facilities teams find even more valuable...\n\nCleaner power quality from harmonic filtration means:\n\n\u2022 Extended equipment life (fewer voltage fluctuations and transients)\n\u2022 Improved power factor without capacitor bank maintenance\n\u2022 Reduced stress on transformers and switchgear\n\u2022 More stable gaming floor operations\n\nWhen you eliminate harmonic distortion at the electrical panel level, everything downstream runs cleaner and lasts longer.\n\nOne facilities manager told me: \"The ROI was nice, but not replacing equipment early was priceless.\"\n\nWould you like to review the technical specifications?"
+        },
+        {
+          "subject": "Technical breakdown: How it eliminates harmonics",
+          "body": "Here's the technical breakdown of how it eliminates harmonics at the source...\n\nSolid-state filtration installed at your electrical panel level. No moving parts, no maintenance required, 20+ year operational life.\n\nIt actively cancels the 15-25% THD created by your gaming equipment before it inflates your demand readings.\n\nOur 5% guarantee: 50,000+ installations worldwide, never achieved below 5% reduction, full refund if we don't meet minimum.\n\nSimple physics - clean up the power quality, reduce the waste.\n\nCan I send the technical specs to your engineering team for review?"
+        },
+        {
+          "subject": "30-day metered pilot with power quality monitoring?",
+          "body": "Would you be open to a 30-day metered pilot with full power quality monitoring?\n\nSame approach as the Las Vegas casino - install harmonic filters on a representative section, measure before/after with independent power quality analyzers.\n\nPre-defined success criteria, transparent reporting, our 5% minimum guarantee applies.\n\nIf it doesn't deliver measurable demand reduction and improved THD, we remove it at no cost.\n\nLow risk way to validate what clean power could mean for WinStar's $100M energy spend.\n\nWould you like to review the pilot terms?"
+        }
+      ],
+      "esg": [
+        {
+          "subject": "Carbon reduction that improves profitability?",
+          "body": "Quick question - are you finding ways to hit carbon reduction targets that actually improve profitability, or is it always a trade-off?\n\nA Las Vegas casino achieved these verified results:\n\n\u2022 8.59% kW reduction (peak demand)\n\u2022 Third-party verified over 12 months\n\u2022 25-40% IRR\n\nBased on WinStar World Casino and Resort's profile, similar results would mean:\n\n\u2022 ~60,130 tons CO2 reduction annually\n\u2022 $8,590,000/year cost savings\n\nThe technology addresses energy waste at the source - delivering measurable sustainability impact that actually improves profitability.\n\nWould you like to see the third-party verification report?"
+        },
+        {
+          "subject": "Third-party verified carbon reduction for board reporting",
+          "body": "Here's something your board might find interesting about measurable carbon reduction...\n\nMost sustainability initiatives struggle with credible reporting. This Las Vegas casino has third-party verified data:\n\n\u2022 8.59% energy reduction = quantified CO2 impact\n\u2022 12-month independent verification\n\u2022 Board-ready ESG metrics\n\u2022 Self-funding through energy savings\n\nFor WinStar's scale (~$100M energy spend), this translates to approximately 60,130 tons CO2 reduction annually - the kind of measurable impact that supports 30-50% carbon reduction commitments.\n\nThe difference? Solid-state technology that reduces harmonic distortion in gaming equipment electrical systems.\n\nWant to download the carbon reduction analysis with third-party verification?"
+        },
+        {
+          "subject": "Why most casino sustainability programs miss the mark",
+          "body": "Most sustainability programs focus on the wrong metric for casinos...\n\nEnergy efficiency typically targets kWh (consumption). But for carbon impact, demand reduction (kW) is the leverage point - especially with gaming equipment.\n\nHere's why:\n\n\u2022 Gaming systems create harmonic distortion\n\u2022 This forces electrical systems to work harder\n\u2022 Peak demand drives both carbon footprint AND utility costs\n\nThe Las Vegas casino's 8.59% kW reduction delivered both:\n\u2022 Immediate carbon impact (measurable for ESG reporting)\n\u2022 Strong financial returns (25-40% IRR)\n\nIt's sustainability that actually accelerates profitability instead of competing with it.\n\nWant to see the carbon impact model for WinStar's operations?"
+        },
+        {
+          "subject": "Sustainability that accelerates EBITDA",
+          "body": "What if you could accelerate carbon reduction AND improve EBITDA?\n\nSolid-state energy filtration delivers continuous carbon reduction with zero operational trade-offs:\n\n\u2022 Filters harmonic distortion in real-time\n\u2022 Reduces peak demand (kW) = lower carbon footprint\n\u2022 25-40% IRR from energy savings\n\n**5% GUARANTEE:** 50,000+ installations worldwide, never achieved below 5% reduction, full refund if savings don't meet minimum.\n\nFor WinStar's profile: ~$8.6M annual savings, 60,130 tons CO2 reduction.\n\nThis is sustainability that strengthens financial performance while hitting carbon targets.\n\nReady to review the ESG impact analysis?"
+        },
+        {
+          "subject": "30-day pilot with board-ready verification?",
+          "body": "Would you be open to a 30-day pilot with third-party verification for board reporting?\n\nSame approach as the Las Vegas casino:\n\n\u2022 Pre-defined success criteria (energy + carbon metrics)\n\u2022 Independent verification for ESG reporting\n\u2022 5% minimum reduction guarantee\n\u2022 Full financial analysis\n\nLow risk, high impact. If results don't meet projections, we remove the technology at no cost.\n\nFor WinStar's scale, even conservative results would deliver measurable carbon reduction that supports your sustainability commitments while improving profitability.\n\nWant to review the pilot terms and success criteria?"
+        }
+      ]
+    },
+    "num_sequences_generated": 4,
+    "num_emails_per_sequence": 5,
+    "total_emails_generated": 20
+  }
+]

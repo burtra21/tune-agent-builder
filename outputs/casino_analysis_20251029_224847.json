@@ -1,0 +1,242 @@
+[
+  {
+    "company_profile": {
+      "company_name": "MGM Grand Las Vegas",
+      "domain": "mgmgrand.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 5000,
+      "estimated_sqft": 1200000,
+      "estimated_annual_kwh": 240000000,
+      "estimated_energy_spend": 24000000.0,
+      "savings_percentage": 8.59,
+      "annual_savings_dollars": 2061600.0,
+      "monthly_savings_dollars": 171800.0,
+      "payback_months": 14,
+      "five_year_savings": 10308000.0,
+      "carbon_reduction_tons": 14431.2
+    },
+    "scores": {
+      "intent": 70,
+      "technical_fit": 85,
+      "urgency": 65,
+      "account_value": 100,
+      "location_quality": 90,
+      "composite": 79.5
+    },
+    "composite_score": 79.5,
+    "priority_tier": "A",
+    "savings_projection": {
+      "estimated_sqft": 1200000,
+      "estimated_annual_kwh": 240000000,
+      "estimated_energy_spend": 24000000.0,
+      "savings_percentage": 8.59,
+      "annual_savings_dollars": 2061600.0,
+      "monthly_savings_dollars": 171800.0,
+      "payback_months": 14,
+      "five_year_savings": 10308000.0,
+      "carbon_reduction_tons": 14431.2
+    },
+    "persona_mapping": {
+      "primary_persona": "facilities_vp",
+      "recommended_personas": [
+        "esg_director",
+        "facilities_vp",
+        "energy_manager"
+      ]
+    },
+    "recommended_messaging": "Focus on $2,061,600 annual savings opportunity. Emphasize A-tier priority for quick ROI.",
+    "analyzed_at": "2025-10-29T22:48:47.494759"
+  },
+  {
+    "company_profile": {
+      "company_name": "Caesars Palace",
+      "domain": "caesars.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 4500,
+      "estimated_sqft": 1100000,
+      "estimated_annual_kwh": 220000000,
+      "estimated_energy_spend": 22000000.0,
+      "savings_percentage": 8.59,
+      "annual_savings_dollars": 1889800.0,
+      "monthly_savings_dollars": 157483.33333333334,
+      "payback_months": 14,
+      "five_year_savings": 9449000.0,
+      "carbon_reduction_tons": 13228.6
+    },
+    "scores": {
+      "intent": 70,
+      "technical_fit": 85,
+      "urgency": 65,
+      "account_value": 100,
+      "location_quality": 90,
+      "composite": 79.5
+    },
+    "composite_score": 79.5,
+    "priority_tier": "A",
+    "savings_projection": {
+      "estimated_sqft": 1100000,
+      "estimated_annual_kwh": 220000000,
+      "estimated_energy_spend": 22000000.0,
+      "savings_percentage": 8.59,
+      "annual_savings_dollars": 1889800.0,
+      "monthly_savings_dollars": 157483.33333333334,
+      "payback_months": 14,
+      "five_year_savings": 9449000.0,
+      "carbon_reduction_tons": 13228.6
+    },
+    "persona_mapping": {
+      "primary_persona": "facilities_vp",
+      "recommended_personas": [
+        "esg_director",
+        "facilities_vp",
+        "energy_manager"
+      ]
+    },
+    "recommended_messaging": "Focus on $1,889,800 annual savings opportunity. Emphasize A-tier priority for quick ROI.",
+    "analyzed_at": "2025-10-29T22:48:47.494772"
+  },
+  {
+    "company_profile": {
+      "company_name": "The Venetian",
+      "domain": "venetian.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 6000,
+      "estimated_sqft": 1500000,
+      "estimated_annual_kwh": 300000000,
+      "estimated_energy_spend": 30000000.0,
+      "savings_percentage": 8.59,
+      "annual_savings_dollars": 2577000.0,
+      "monthly_savings_dollars": 214750.0,
+      "payback_months": 14,
+      "five_year_savings": 12885000.0,
+      "carbon_reduction_tons": 18039.0
+    },
+    "scores": {
+      "intent": 70,
+      "technical_fit": 85,
+      "urgency": 65,
+      "account_value": 100,
+      "location_quality": 90,
+      "composite": 79.5
+    },
+    "composite_score": 79.5,
+    "priority_tier": "A",
+    "savings_projection": {
+      "estimated_sqft": 1500000,
+      "estimated_annual_kwh": 300000000,
+      "estimated_energy_spend": 30000000.0,
+      "savings_percentage": 8.59,
+      "annual_savings_dollars": 2577000.0,
+      "monthly_savings_dollars": 214750.0,
+      "payback_months": 14,
+      "five_year_savings": 12885000.0,
+      "carbon_reduction_tons": 18039.0
+    },
+    "persona_mapping": {
+      "primary_persona": "facilities_vp",
+      "recommended_personas": [
+        "esg_director",
+        "facilities_vp",
+        "energy_manager"
+      ]
+    },
+    "recommended_messaging": "Focus on $2,577,000 annual savings opportunity. Emphasize A-tier priority for quick ROI.",
+    "analyzed_at": "2025-10-29T22:48:47.494778"
+  },
+  {
+    "company_profile": {
+      "company_name": "Bellagio",
+      "domain": "bellagio.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 4000,
+      "estimated_sqft": 950000,
+      "estimated_annual_kwh": 190000000,
+      "estimated_energy_spend": 19000000.0,
+      "savings_percentage": 8.59,
+      "annual_savings_dollars": 1632100.0,
+      "monthly_savings_dollars": 136008.33333333334,
+      "payback_months": 14,
+      "five_year_savings": 8160500.0,
+      "carbon_reduction_tons": 11424.7
+    },
+    "scores": {
+      "intent": 70,
+      "technical_fit": 85,
+      "urgency": 65,
+      "account_value": 75,
+      "location_quality": 90,
+      "composite": 75.8
+    },
+    "composite_score": 75.8,
+    "priority_tier": "A",
+    "savings_projection": {
+      "estimated_sqft": 950000,
+      "estimated_annual_kwh": 190000000,
+      "estimated_energy_spend": 19000000.0,
+      "savings_percentage": 8.59,
+      "annual_savings_dollars": 1632100.0,
+      "monthly_savings_dollars": 136008.33333333334,
+      "payback_months": 14,
+      "five_year_savings": 8160500.0,
+      "carbon_reduction_tons": 11424.7
+    },
+    "persona_mapping": {
+      "primary_persona": "energy_manager",
+      "recommended_personas": [
+        "esg_director",
+        "facilities_vp",
+        "energy_manager"
+      ]
+    },
+    "recommended_messaging": "Focus on $1,632,100 annual savings opportunity. Emphasize A-tier priority for quick ROI.",
+    "analyzed_at": "2025-10-29T22:48:47.494782"
+  },
+  {
+    "company_profile": {
+      "company_name": "Wynn Las Vegas",
+      "domain": "wynnlasvegas.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 5500,
+      "estimated_sqft": 1300000,
+      "estimated_annual_kwh": 260000000,
+      "estimated_energy_spend": 26000000.0,
+      "savings_percentage": 8.59,
+      "annual_savings_dollars": 2233400.0,
+      "monthly_savings_dollars": 186116.66666666666,
+      "payback_months": 14,
+      "five_year_savings": 11167000.0,
+      "carbon_reduction_tons": 15633.8
+    },
+    "scores": {
+      "intent": 70,
+      "technical_fit": 85,
+      "urgency": 65,
+      "account_value": 100,
+      "location_quality": 90,
+      "composite": 79.5
+    },
+    "composite_score": 79.5,
+    "priority_tier": "A",
+    "savings_projection": {
+      "estimated_sqft": 1300000,
+      "estimated_annual_kwh": 260000000,
+      "estimated_energy_spend": 26000000.0,
+      "savings_percentage": 8.59,
+      "annual_savings_dollars": 2233400.0,
+      "monthly_savings_dollars": 186116.66666666666,
+      "payback_months": 14,
+      "five_year_savings": 11167000.0,
+      "carbon_reduction_tons": 15633.8
+    },
+    "persona_mapping": {
+      "primary_persona": "facilities_vp",
+      "recommended_personas": [
+        "esg_director",
+        "facilities_vp",
+        "energy_manager"
+      ]
+    },
+    "recommended_messaging": "Focus on $2,233,400 annual savings opportunity. Emphasize A-tier priority for quick ROI.",
+    "analyzed_at": "2025-10-29T22:48:47.494786"
+  }
+]

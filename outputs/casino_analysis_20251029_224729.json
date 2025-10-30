@@ -1,0 +1,92 @@
+[
+  {
+    "error": "{\"detail\":\"Agent for casino not found. Build it first.\"}",
+    "prospect": {
+      "company_name": "MGM Grand Las Vegas",
+      "domain": "mgmgrand.com",
+      "employee_count": 5000,
+      "location": "Las Vegas, NV"
+    }
+  },
+  {
+    "error": "{\"detail\":\"Agent for casino not found. Build it first.\"}",
+    "prospect": {
+      "company_name": "Caesars Palace",
+      "domain": "caesars.com",
+      "employee_count": 4500,
+      "location": "Las Vegas, NV"
+    }
+  },
+  {
+    "error": "{\"detail\":\"Agent for casino not found. Build it first.\"}",
+    "prospect": {
+      "company_name": "The Venetian Resort",
+      "domain": "venetian.com",
+      "employee_count": 6000,
+      "location": "Las Vegas, NV"
+    }
+  },
+  {
+    "error": "{\"detail\":\"Agent for casino not found. Build it first.\"}",
+    "prospect": {
+      "company_name": "Bellagio",
+      "domain": "bellagio.com",
+      "employee_count": 4000,
+      "location": "Las Vegas, NV"
+    }
+  },
+  {
+    "error": "{\"detail\":\"Agent for casino not found. Build it first.\"}",
+    "prospect": {
+      "company_name": "Wynn Las Vegas",
+      "domain": "wynnlasvegas.com",
+      "employee_count": 5500,
+      "location": "Las Vegas, NV"
+    }
+  },
+  {
+    "error": "{\"detail\":\"Agent for casino not found. Build it first.\"}",
+    "prospect": {
+      "company_name": "Aria Resort",
+      "domain": "aria.com",
+      "employee_count": 4200,
+      "location": "Las Vegas, NV"
+    }
+  },
+  {
+    "error": "{\"detail\":\"Agent for casino not found. Build it first.\"}",
+    "prospect": {
+      "company_name": "Cosmopolitan",
+      "domain": "cosmopolitanlasvegas.com",
+      "employee_count": 3800,
+      "location": "Las Vegas, NV"
+    }
+  },
+  {
+    "error": "{\"detail\":\"Agent for casino not found. Build it first.\"}",
+    "prospect": {
+      "company_name": "Mandalay Bay",
+      "domain": "mandalaybay.com",
+      "employee_count": 4500,
+      "location": "Las Vegas, NV"
+    }
+  },
+  {
+    "error": "{\"detail\":\"Agent for casino not found. Build it first.\"}",
+    "prospect": {
+      "company_name": "Luxor",
+      "domain": "luxor.com",
+      "employee_count": 3000,
+      "location": "Las Vegas, NV"
+    }
+  },
+  {
+    "error": "{\"detail\":\"Agent for casino not found. Build it first.\"}",
+    "prospect": {
+      "company_name": "Paris Las Vegas",
+      "domain": "caesars.com/paris-las-vegas",
+      "employee_count": 3200,
+      "location": "Las Vegas, NV"
+    }
+  }
+]

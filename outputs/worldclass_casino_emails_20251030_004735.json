@@ -1,0 +1,582 @@
+[
+  {
+    "company_profile": {
+      "company_name": "Foxwoods Resort Casino",
+      "domain": "foxwoods.com",
+      "location": "Mashantucket, CT",
+      "employee_count": 11000,
+      "estimated_sqft": 9000000,
+      "estimated_energy_spend": 180000000.0,
+      "annual_savings_dollars": 15462000.0,
+      "monthly_savings_dollars": 1288500.0,
+      "five_year_savings": 77310000.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 108234.0
+    },
+    "composite_score": 76.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequence": [
+      {
+        "email_number": 1,
+        "subject": "8.59% kW reduction verified at Vegas casino - similar possible at Foxwoods?",
+        "body": "A Vegas casino just achieved an 8.59% reduction in peak demand using solid-state harmonic filtration - third-party verified with 14-month payback.\n\nI'm reaching out because Foxwoods' profile suggests similar results are mathematically possible. Your estimated $180,000,000 annual energy spend could potentially be reduced by $15,462,000 based on these verified metrics.\n\nThe technology eliminates harmonic distortion from gaming equipment at the electrical panel level - something standard energy solutions can't touch. Zero downtime installation, no ongoing maintenance.\n\nMost facilities teams haven't seen the actual metered data from this deployment.",
+        "cta": "See the full third-party verification report",
+        "send_delay_days": 0
+      },
+      {
+        "email_number": 2,
+        "subject": "Your $16.2M demand charge problem (30-50% of total utility bill)",
+        "body": "Quick question - do your utility bills clearly separate energy charges (kWh) from demand charges (kW)?\n\nMost casino executives don't realize demand charges often represent 30-50% of their total utility spend. At Foxwoods' scale, that's roughly $16.2 million annually just in demand charges.\n\nHere's the kicker: One 15-minute power spike sets your rate for the entire month. Your gaming floor's electrical characteristics make you particularly vulnerable to these spikes.\n\nThe root cause? Harmonic distortion from slot machines and VFDs inflating your apparent power draw.",
+        "cta": "Download your estimated demand charge breakdown",
+        "send_delay_days": 3
+      },
+      {
+        "email_number": 3,
+        "subject": "Why your gaming floor creates 15-25% harmonic distortion (vs 5-8% in offices)",
+        "body": "Gaming equipment is an electrical nightmare. Slot machines and VFDs on HVAC systems create 15-25% current harmonic distortion - triple what you'd see in office buildings.\n\nThis distortion inflates your apparent power (kVA), which increases current draw and triggers higher demand charges. It's invisible to standard energy management systems.\n\nThat's why LED upgrades and BMS optimization barely move the needle for casinos. You're fighting the wrong battle.\n\nThe Vegas casino solved this by filtering harmonics at the electrical panel level - cleaning the power before it hits your meters.",
+        "cta": "See your estimated harmonic distortion profile",
+        "send_delay_days": 6
+      },
+      {
+        "email_number": 4,
+        "subject": "How solid-state filtration works (when building management systems don't)",
+        "body": "The technology installs directly at electrical panels - no disruption to gaming operations. Solid-state filters eliminate harmonics in real-time, reducing apparent power and lowering demand readings.\n\nUnlike building management systems that optimize around existing inefficiencies, this addresses the root electrical cause. No moving parts, no maintenance requirements, 20+ year operational life.\n\nYou can't control when guests show up, but you can control how much power you draw serving them.\n\nThe engineering specs show exactly how it integrates with your existing electrical infrastructure.",
+        "cta": "Send technical specifications to your engineering team",
+        "send_delay_days": 9
+      },
+      {
+        "email_number": 5,
+        "subject": "30-day metered pilot (same methodology as Vegas verification)",
+        "body": "The Vegas casino started with a 30-day metered pilot on a representative electrical panel. Pre-defined success criteria, third-party measurement, zero risk.\n\nSame approach available for Foxwoods. We identify the optimal test location, install meters, measure before/after performance over 30 days.\n\nTypical results: 14-month payback, 25-40% IRR on full deployment. But you'd see your actual numbers before making any commitment.\n\nThe pilot agreement outlines measurement methodology, success criteria, and next steps based on verified results.",
+        "cta": "Review the 30-day pilot terms",
+        "send_delay_days": 12
+      }
+    ],
+    "num_emails_generated": 5
+  },
+  {
+    "company_profile": {
+      "company_name": "The Venetian Las Vegas",
+      "domain": "venetianlasvegas.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 12000,
+      "estimated_sqft": 7000000,
+      "estimated_energy_spend": 140000000.0,
+      "annual_savings_dollars": 12026000.0,
+      "monthly_savings_dollars": 1002167.0,
+      "five_year_savings": 60130000.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 84182.0
+    },
+    "composite_score": 79.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequence": [
+      {
+        "email_number": 1,
+        "subject": "Third-party verified: 8.59% kW reduction at Vegas casino",
+        "body": "A Las Vegas casino just achieved an 8.59% kW demand reduction using solid-state harmonic filtration - third-party verified with 14-month payback.\n\nI'm reaching out because The Venetian's profile suggests similar results are mathematically possible. Your estimated $140,000,000 annual energy spend could potentially be reduced by $12,026,000 based on these verified results.\n\nWhat makes this interesting: zero downtime installation, no maintenance required, and it addresses the root cause most casino energy solutions miss - harmonic distortion from gaming equipment inflating your demand charges.",
+        "cta": "See the full third-party metered results",
+        "send_delay_days": 0
+      },
+      {
+        "email_number": 2,
+        "subject": "Why your $12.6M demand charges reset every 15 minutes",
+        "body": "Quick question - do your utility bills separate energy charges (kWh) from demand charges (kW)?\n\nMost casino executives don't realize demand charges often represent 30-50% of their total bill. At The Venetian, that's roughly $12.6 million annually.\n\nHere's the painful part: one 15-minute power spike - maybe during a big event or system startup - sets your rate for the entire month. You can't control when guests show up, but you can control how much power you draw serving them.\n\nThe culprit? Harmonic distortion from gaming equipment inflating those demand readings.",
+        "cta": "Download your estimated demand charge breakdown",
+        "send_delay_days": 3
+      },
+      {
+        "email_number": 3,
+        "subject": "Why your slot machines cost 3x more in demand charges",
+        "body": "Your gaming floor creates 15-25% current harmonic distortion. Compare that to office buildings at 5-8%.\n\nEvery slot machine, every VFD on your HVAC systems - they're all distorting the current waveform. This inflates your apparent power draw, which directly increases those kW demand readings your utility meters.\n\nThis is why LED upgrades and building management systems barely dent casino energy costs. They don't address the harmonics.\n\nSolid-state filtration eliminates this distortion at the source - your electrical panels - delivering cleaner power and lower demand charges.",
+        "cta": "See your estimated harmonic distortion profile",
+        "send_delay_days": 6
+      },
+      {
+        "email_number": 4,
+        "subject": "Zero downtime, 20+ year solution (no maintenance)",
+        "body": "The Tune filters install directly at your electrical panels during normal operations. No downtime, no disruption to gaming operations.\n\nOnce installed: zero maintenance required, 20+ year operational life, and immediate demand reduction that shows up on your next utility bill.\n\nUnlike building management systems that require constant tweaking, this is set-and-forget technology. It works when your BMS can't because it eliminates the electrical inefficiency your gaming equipment creates, rather than trying to manage around it.",
+        "cta": "Send technical specs to your engineering team",
+        "send_delay_days": 9
+      },
+      {
+        "email_number": 5,
+        "subject": "30-day metered pilot (same process as Vegas casino)",
+        "body": "The Vegas casino started with exactly what I'd propose for The Venetian: a 30-day metered pilot with pre-defined success criteria.\n\nWe install monitoring equipment, measure baseline performance, install filters on a test circuit, then measure results. Same third-party verification process.\n\nTypical results show 14-month payback with 25-40% IRR. If the pilot doesn't hit agreed-upon targets, we remove everything at no cost.\n\nLow risk, high visibility, measurable results.",
+        "cta": "Review the pilot terms and success criteria",
+        "send_delay_days": 12
+      }
+    ],
+    "num_emails_generated": 5
+  },
+  {
+    "company_profile": {
+      "company_name": "Palazzo Resort Hotel Casino",
+      "domain": "palazzo.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 6000,
+      "estimated_sqft": 7000000,
+      "estimated_energy_spend": 140000000.0,
+      "annual_savings_dollars": 12026000.0,
+      "monthly_savings_dollars": 1002167.0,
+      "five_year_savings": 60130000.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 84182.0
+    },
+    "composite_score": 79.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequence": [
+      {
+        "email_number": 1,
+        "subject": "8.59% kW reduction verified at Vegas casino - similar possible at Palazzo?",
+        "body": "A Las Vegas casino just achieved an 8.59% kW demand reduction using solid-state harmonic filtration - third-party verified with 14-month payback.\n\nI'm reaching out because Palazzo's profile (7M sqft, high gaming density) suggests similar results are mathematically possible. Your estimated $140,000,000 annual energy spend could potentially be reduced by $12,026,000 based on these verified results.\n\nThe technology eliminates harmonic distortion from gaming equipment - the root cause of inflated demand charges that standard energy solutions can't touch. Zero downtime installation, no ongoing maintenance.",
+        "cta": "See the full third-party metered results",
+        "send_delay_days": 0
+      },
+      {
+        "email_number": 2,
+        "subject": "Why your $12.6M demand charges dwarf most casinos' energy costs",
+        "body": "Most facilities managers don't realize they pay TWO utility charges: energy (kWh for consumption) AND demand (kW for peak usage).\n\nAt Palazzo's scale, demand charges likely hit $12,600,000 annually - often exceeding your actual energy consumption costs. Here's the killer: one 15-minute spike during a busy weekend sets your rate for the entire month.\n\nCasinos are uniquely vulnerable because gaming floors create constant harmonic distortion, inflating these demand readings beyond your actual power needs.",
+        "cta": "Download your estimated demand charge breakdown",
+        "send_delay_days": 3
+      },
+      {
+        "email_number": 3,
+        "subject": "Gaming equipment creates 15-25% current distortion (offices see 5-8%)",
+        "body": "Slot machines and HVAC variable frequency drives create 15-25% total harmonic distortion - triple what office buildings experience.\n\nThis distortion inflates apparent power (kVA), forcing higher current draw and spiking your kW demand readings. Your meters see phantom load that you're paying for but not actually using.\n\nThis is why LED upgrades and building management systems barely dent casino utility bills - they don't address the harmonic distortion created by gaming equipment.",
+        "cta": "See your estimated harmonic distortion profile",
+        "send_delay_days": 6
+      },
+      {
+        "email_number": 4,
+        "subject": "Solid-state filtration at the panel level (not another BMS band-aid)",
+        "body": "Tune filters install directly at electrical panels, eliminating harmonics before they inflate demand readings. Solid-state technology - no moving parts, no maintenance, 20+ year operational life.\n\nInstallation during normal maintenance windows with zero downtime. Unlike building management systems that optimize around the problem, this eliminates the root cause.\n\nYou can't control when guests show up, but you can control how much power you draw serving them.",
+        "cta": "Send technical specs to your engineering team",
+        "send_delay_days": 9
+      },
+      {
+        "email_number": 5,
+        "subject": "30-day metered pilot (same methodology as Vegas verification)",
+        "body": "Simple proposal: 30-day metered pilot using identical methodology from the Vegas casino verification. Pre-defined success metrics, third-party monitoring.\n\nTypical results show 14-month payback with 25-40% IRR. If projections hold at Palazzo, you're looking at $60+ million in 5-year value.\n\nNo long-term commitment until you see your own verified results. Same low-risk approach that convinced the Vegas property.",
+        "cta": "Review the pilot terms and success criteria",
+        "send_delay_days": 12
+      }
+    ],
+    "num_emails_generated": 5
+  },
+  {
+    "company_profile": {
+      "company_name": "MGM Grand Las Vegas",
+      "domain": "mgmgrand.mgmresorts.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 9000,
+      "estimated_sqft": 6852000,
+      "estimated_energy_spend": 137040000.0,
+      "annual_savings_dollars": 11771736.0,
+      "monthly_savings_dollars": 980978.0,
+      "five_year_savings": 58858680.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 82402.2
+    },
+    "composite_score": 79.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequence": [
+      {
+        "email_number": 1,
+        "subject": "Third-party verified: 8.59% kW reduction at Vegas casino",
+        "body": "A Las Vegas casino just achieved an 8.59% kW demand reduction using Tune solid-state energy filters - third-party verified with full metered results.\n\nI'm reaching out because MGM Grand's profile suggests similar results are mathematically possible. Based on your estimated 68,520 kW peak demand, an 8.59% reduction would cut demand charges by roughly $1,059,456 annually.\n\nYour estimated $137,040,000 annual energy spend could potentially be reduced by $11,771,736.\n\nThe technology eliminates harmonic distortion from gaming equipment at the electrical panel level - something traditional energy solutions can't address. Zero downtime installation, no maintenance required.",
+        "cta": "See the full third-party verification report",
+        "send_delay_days": 0
+      },
+      {
+        "email_number": 2,
+        "subject": "Why your $12.3M demand charge line item exists",
+        "body": "Most casino executives don't realize their utility bill has two separate charges: energy (kWh) for what you consume, and demand (kW) for your peak 15-minute spike each month.\n\nThat demand charge - estimated at $12.3M annually for MGM Grand - often represents 30-50% of your total utility bill. One brief spike when the gaming floor hits capacity sets your rate for the entire month.\n\nCasinos are uniquely vulnerable because of 24/7 base loads plus unpredictable guest surges. You can't control when guests show up, but you can control how much power you draw serving them.\n\nThe root cause? Harmonic distortion from gaming equipment inflates these demand readings.",
+        "cta": "Download your estimated demand charge breakdown",
+        "send_delay_days": 3
+      },
+      {
+        "email_number": 3,
+        "subject": "Your slot machines are creating 15-25% current distortion",
+        "body": "Here's what most facilities teams don't know: gaming equipment creates 15-25% total harmonic distortion (THD) in your electrical system. Office buildings typically see 5-8%.\n\nThis distortion inflates apparent power (kVA), which increases current draw and artificially raises your kW demand meter readings. It's like paying for phantom power consumption that doesn't actually run anything useful.\n\nThis is exactly why traditional energy solutions - building management systems, LED retrofits, HVAC optimization - barely move the needle for casinos. They don't address the harmonic distortion created by your core gaming operations.\n\nTune filters eliminate this distortion at the electrical panel level.",
+        "cta": "See your estimated harmonic distortion profile",
+        "send_delay_days": 6
+      },
+      {
+        "email_number": 4,
+        "subject": "How solid-state filtration works (no moving parts)",
+        "body": "Tune installs solid-state harmonic filters directly at your electrical panels. No moving parts, no maintenance, 20+ year operational life.\n\nThe filters clean up distorted current waveforms in real-time, reducing apparent power and lowering your kW demand readings. Think of it as installing premium power conditioning for your entire facility.\n\nUnlike building management systems that try to reduce consumption, this addresses power quality - something your gaming floor operations actually need improved anyway.\n\nInstallation happens during scheduled maintenance windows. Zero operational downtime, zero impact to guest experience.",
+        "cta": "Send technical specifications to your engineering team",
+        "send_delay_days": 9
+      },
+      {
+        "email_number": 5,
+        "subject": "30-day metered pilot (same process as Vegas casino)",
+        "body": "The Vegas casino started with exactly what I'd propose for MGM Grand: a 30-day metered pilot with pre-defined success criteria.\n\nWe install monitoring equipment, measure baseline power quality, install filters on a representative electrical panel, then measure results. Same third-party verification process.\n\nTypical results show 14-month payback periods with 25-40% IRR. The Vegas property is now expanding system-wide.\n\nLow risk, measurable results, and if the numbers don't hit projections, we remove everything at no cost.",
+        "cta": "Review the pilot program terms",
+        "send_delay_days": 12
+      }
+    ],
+    "num_emails_generated": 5
+  },
+  {
+    "company_profile": {
+      "company_name": "WinStar World Casino and Resort",
+      "domain": "winstarworldcasino.com",
+      "location": "Thackerville, OK",
+      "employee_count": 7000,
+      "estimated_sqft": 5000000,
+      "estimated_energy_spend": 100000000.0,
+      "annual_savings_dollars": 8590000.0,
+      "monthly_savings_dollars": 715833.0,
+      "five_year_savings": 42950000.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 60130.0
+    },
+    "composite_score": 76.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequence": [
+      {
+        "email_number": 1,
+        "subject": "Third-party verified: 8.59% kW reduction at Vegas casino",
+        "body": "A Las Vegas casino just achieved an 8.59% reduction in peak demand using solid-state harmonic filtration - verified by third-party metering over 30 days.\n\nI'm reaching out because WinStar's profile suggests similar results are mathematically possible. Your estimated $100,000,000 annual energy spend could potentially be reduced by $8,590,000 based on this verified case study.\n\nThe Vegas property saw 14-month payback with zero operational changes - no downtime, no maintenance requirements. What made this work when other energy solutions typically don't for casinos is addressing the root cause: harmonic distortion from gaming equipment inflating your apparent power draw.",
+        "cta": "See the full third-party metered results",
+        "send_delay_days": 0
+      },
+      {
+        "email_number": 2,
+        "subject": "Why your $9M demand charges reset every 15 minutes",
+        "body": "Quick question - does your utility bill break out demand charges (kW) separately from energy charges (kWh)?\n\nMost casino executives don't realize demand charges often represent 30-50% of their total utility spend. At WinStar's scale, that's roughly $9,000,000 annually just in demand charges.\n\nHere's the painful part: your entire month's demand rate gets set by your highest 15-minute peak. One spike during a busy weekend locks in your rate for 30 days.\n\nCasinos are especially vulnerable because gaming equipment creates harmonic distortion that inflates these demand readings - even when your actual energy consumption stays flat.",
+        "cta": "Download your estimated demand charge breakdown",
+        "send_delay_days": 3
+      },
+      {
+        "email_number": 3,
+        "subject": "Why slot machines cost more than their energy consumption",
+        "body": "Your gaming floor is likely running 15-25% current harmonic distortion. For context, office buildings typically see 5-8%.\n\nEvery slot machine, every VFD on your HVAC systems creates harmonics that inflate your apparent power (kVA). Higher apparent power means higher current draw, which translates directly to inflated kW demand readings on your meter.\n\nThis is why traditional energy solutions - better BMS controls, LED retrofits, even solar - barely move the needle on casino utility bills. You're not just paying for the energy you use; you're paying a premium because of how distorted that power draw appears to the utility.\n\nThe solution isn't using less energy. It's cleaning up the power you're already using.",
+        "cta": "See your estimated harmonic distortion profile",
+        "send_delay_days": 6
+      },
+      {
+        "email_number": 4,
+        "subject": "Zero downtime solution (because uptime is everything)",
+        "body": "Tune filters install at your electrical panels - no interruption to gaming operations, no equipment shutdowns, no guest impact.\n\nSolid-state technology with 20+ year lifespan and zero maintenance requirements. No moving parts, no consumables, no service contracts.\n\nIt works by filtering harmonic distortion in real-time, so your power draw appears cleaner to the utility meter. Lower apparent power equals lower demand charges - without changing how you actually operate.\n\nYou can't control when guests show up, but you can control how much power you draw serving them. The Vegas casino proved this works even during peak occupancy periods.",
+        "cta": "Send technical specs to your engineering team",
+        "send_delay_days": 9
+      },
+      {
+        "email_number": 5,
+        "subject": "30-day pilot (same verification as Vegas casino)",
+        "body": "Same approach as Vegas: 30-day metered pilot with pre-defined success criteria.\n\nWe install monitoring equipment, measure your baseline harmonic distortion and demand patterns, then install filters on select panels. Third-party verification throughout.\n\nTypical results show 14-month payback with 25-40% IRR, but we let the meters do the talking.\n\nNo long-term commitment until you see verified results. If the math doesn't work, we remove everything at no cost.\n\nGiven WinStar's scale, even a modest improvement represents millions in annual savings. Worth 15 minutes to review the pilot terms?",
+        "cta": "Review 30-day pilot agreement",
+        "send_delay_days": 12
+      }
+    ],
+    "num_emails_generated": 5
+  },
+  {
+    "company_profile": {
+      "company_name": "Mohegan Sun",
+      "domain": "mohegansun.com",
+      "location": "Uncasville, CT",
+      "employee_count": 10000,
+      "estimated_sqft": 5000000,
+      "estimated_energy_spend": 100000000.0,
+      "annual_savings_dollars": 8590000.0,
+      "monthly_savings_dollars": 715833.0,
+      "five_year_savings": 42950000.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 60130.0
+    },
+    "composite_score": 76.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequence": [
+      {
+        "email_number": 1,
+        "subject": "8.59% demand reduction verified at Vegas casino",
+        "body": "A Las Vegas casino just achieved an 8.59% kW demand reduction using solid-state harmonic filtration - third-party verified with 14-month payback.\n\nI'm reaching out because Mohegan Sun's profile suggests similar results are mathematically possible. Your estimated $100,000,000 annual energy spend could potentially be reduced by $8,590,000 based on these verified results.\n\nWhat makes this interesting: zero downtime installation, no maintenance required, and it addresses the root cause most energy solutions miss in casinos - harmonic distortion from gaming equipment that inflates your demand charges every month.",
+        "cta": "See the full third-party verification report",
+        "send_delay_days": 0
+      },
+      {
+        "email_number": 2,
+        "subject": "Why your $9M demand charges hurt more than energy costs",
+        "body": "Quick question - do your utility bills clearly separate energy charges (kWh) from demand charges (kW)?\n\nMost casino operators don't realize demand charges often represent 30-50% of their total bill. At Mohegan Sun, that's roughly $9,000,000 annually just for peak demand.\n\nHere's what's brutal: one 15-minute spike during your busiest night sets your demand rate for the entire month. Your gaming floor's electrical characteristics make you especially vulnerable to these spikes because of harmonic distortion that standard energy management can't touch.",
+        "cta": "Download your estimated demand charge breakdown",
+        "send_delay_days": 3
+      },
+      {
+        "email_number": 3,
+        "subject": "Why slot machines cost more than their energy consumption",
+        "body": "Your gaming floor creates 15-25% current harmonic distortion. Compare that to office buildings at 5-8%.\n\nEvery slot machine, every VFD on your HVAC systems generates harmonics that inflate your apparent power draw. This forces higher current through your electrical system, which your utility meters read as higher kW demand.\n\nThis is exactly why building management systems and LED retrofits barely dent casino energy costs - they don't address the electrical distortion that's artificially inflating your demand readings every 15-minute interval.",
+        "cta": "See your estimated harmonic distortion profile",
+        "send_delay_days": 6
+      },
+      {
+        "email_number": 4,
+        "subject": "How to clean power without touching operations",
+        "body": "Tune filters install at your electrical panels - upstream from everything. They eliminate harmonics before they can inflate your demand readings.\n\nSolid-state technology means zero moving parts, no maintenance schedules, 20+ year operational life. Your operations team installs during planned maintenance windows with zero guest-facing downtime.\n\nYou can't control when guests show up, but you can control how much power you draw serving them. Clean power = lower demand = immediate monthly savings.",
+        "cta": "Send technical specs to your engineering team",
+        "send_delay_days": 9
+      },
+      {
+        "email_number": 5,
+        "subject": "30-day metered pilot (same methodology as Vegas)",
+        "body": "The Vegas casino started with exactly what I'd propose for Mohegan Sun: 30-day metered pilot with pre-defined success criteria.\n\nSame third-party verification methodology. Same risk mitigation. Typical results show 14-month payback with 25-40% IRR.\n\nIf the meters don't show meaningful demand reduction, we remove the equipment. If they do show results like Vegas, you're looking at $773,100 in annual demand charge savings alone.\n\nSimple pilot terms, measurable results.",
+        "cta": "Review the pilot agreement terms",
+        "send_delay_days": 12
+      }
+    ],
+    "num_emails_generated": 5
+  },
+  {
+    "company_profile": {
+      "company_name": "Caesars Palace",
+      "domain": "caesarspalace.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 8000,
+      "estimated_sqft": 4500000,
+      "estimated_energy_spend": 90000000.0,
+      "annual_savings_dollars": 7731000.0,
+      "monthly_savings_dollars": 644250.0,
+      "five_year_savings": 38655000.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 54117.0
+    },
+    "composite_score": 79.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequence": [
+      {
+        "email_number": 1,
+        "subject": "8.59% kW reduction verified at Vegas casino",
+        "body": "A Las Vegas casino just achieved an 8.59% kW demand reduction using solid-state harmonic filtration - third-party verified with 14-month payback.\n\nI'm reaching out because Caesars Palace has a similar profile (gaming floor density, 24/7 operations, high harmonic load). If you achieved comparable results, your estimated $90,000,000 annual energy spend could be reduced by $7,731,000.\n\nThe math is straightforward: gaming equipment creates harmonic distortion that inflates your demand readings. Clean power = lower kW charges.\n\nNo operational changes required. Zero downtime installation.",
+        "cta": "See the full third-party verification report",
+        "send_delay_days": 0
+      },
+      {
+        "email_number": 2,
+        "subject": "Your $8.1M demand charge line item",
+        "body": "Quick question - do your utility bills separate energy charges (kWh) from demand charges (kW)?\n\nMost casino operators don't realize demand charges often represent 30-50% of their total bill. At Caesars Palace, that's roughly $8.1M annually just for your peak 15-minute power draw.\n\nHere's the problem: one equipment spike during your busiest night sets your rate for the entire month. Every month.\n\nYour gaming floor's electronic load creates harmonic distortion that makes these spikes worse than they need to be.",
+        "cta": "Download your estimated demand charge breakdown",
+        "send_delay_days": 3
+      },
+      {
+        "email_number": 3,
+        "subject": "Why your gaming floor costs 3x more to power than offices",
+        "body": "Slot machines and VFDs create 15-25% current harmonic distortion. Compare that to office buildings at 5-8%.\n\nThis distortion inflates your apparent power draw, forcing higher current through your electrical system. Higher current = higher kW demand readings = higher monthly charges.\n\nIt's why standard energy solutions (BMS optimization, LED upgrades) barely move the needle for casinos. They don't address the root electrical issue.\n\nYou can't control when guests show up, but you can control how much power you draw serving them.",
+        "cta": "See your estimated harmonic distortion profile",
+        "send_delay_days": 6
+      },
+      {
+        "email_number": 4,
+        "subject": "How to clean 45,000 kW of dirty power",
+        "body": "Tune filters install at your electrical panels - no gaming floor disruption, zero downtime.\n\nSolid-state technology eliminates harmonics in real-time. Cleaner power means lower current draw, which directly reduces your kW demand readings.\n\nNo maintenance required. 20+ year equipment life. Your operations team doesn't need to learn anything new.\n\nUnlike building management systems that optimize around the problem, this solves it at the electrical source.",
+        "cta": "Send technical specs to your engineering team",
+        "send_delay_days": 9
+      },
+      {
+        "email_number": 5,
+        "subject": "30-day metered pilot (same as Vegas casino)",
+        "body": "The Vegas casino started with a 30-day pilot on one electrical panel. Pre-defined success criteria, full metering, third-party verification.\n\nResult: 8.59% kW reduction, 14-month payback, 25-40% IRR.\n\nSame approach available for Caesars Palace. Test one section, measure results, scale what works.\n\nNo upfront investment in pilot phase. Your facilities team sees exactly what we saw in Vegas before making any decisions.",
+        "cta": "Review pilot terms and success criteria",
+        "send_delay_days": 12
+      }
+    ],
+    "num_emails_generated": 5
+  },
+  {
+    "company_profile": {
+      "company_name": "Pechanga Resort Casino",
+      "domain": "pechanga.com",
+      "location": "Temecula, CA",
+      "employee_count": 4500,
+      "estimated_sqft": 4400000,
+      "estimated_energy_spend": 88000000.0,
+      "annual_savings_dollars": 7559200.0,
+      "monthly_savings_dollars": 629933.0,
+      "five_year_savings": 37796000.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 52914.4
+    },
+    "composite_score": 76.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequence": [
+      {
+        "email_number": 1,
+        "subject": "8.59% kW reduction (third-party verified) - similar possible at Pechanga?",
+        "body": "A Las Vegas casino just achieved an 8.59% kW demand reduction using solid-state harmonic filtration - third-party verified with 14-month payback.\n\nI'm reaching out because Pechanga's profile (4.4M sqft, high gaming density) suggests similar results are mathematically possible. If you achieved the same 8.59% reduction, your estimated $88M annual energy spend could be reduced by $7.6M annually.\n\nThe Vegas property ran a 30-day metered pilot first - same approach we'd recommend for you. Zero operational disruption, installed at electrical panels during normal maintenance windows.\n\nWorth reviewing the full metered data?",
+        "cta": "See the complete third-party verification report",
+        "send_delay_days": 0
+      },
+      {
+        "email_number": 2,
+        "subject": "Quick question about your demand charges vs energy charges",
+        "body": "Most casino operators don't realize their utility bill has two massive components: energy charges (kWh consumed) and demand charges (peak kW drawn).\n\nDemand charges are often 30-50% of your total bill - roughly $8-20 per kW per month. Here's the killer: one 15-minute spike during peak hours sets your rate for the entire month.\n\nCasinos are especially vulnerable because you can't control when guests show up, but every slot machine and VFD creates power quality issues that inflate these demand readings.\n\nCurious what percentage of Pechanga's bill is demand charges versus actual energy consumption?",
+        "cta": "Download the casino demand charge breakdown analysis",
+        "send_delay_days": 3
+      },
+      {
+        "email_number": 3,
+        "subject": "Why your gaming floor creates 3x more harmonic distortion than offices",
+        "body": "Here's something most facilities teams don't know: gaming equipment creates 15-25% current harmonic distortion. Compare that to typical office buildings at 5-8%.\n\nEvery slot machine, every VFD on your HVAC systems distorts the electrical waveform. This inflates your apparent power draw, which utilities meter as higher kW demand - even when you're consuming the same actual energy.\n\nIt's why standard energy solutions (BMS optimization, LED retrofits) barely touch casino demand charges. You're solving the wrong problem.\n\nThe Vegas casino addressed this at the source - harmonic filtration at the electrical panel level.",
+        "cta": "See your estimated harmonic distortion profile",
+        "send_delay_days": 6
+      },
+      {
+        "email_number": 4,
+        "subject": "How solid-state filtration works (and why BMS doesn't)",
+        "body": "The technology is surprisingly simple: solid-state filters installed at your electrical panels that eliminate harmonic distortion in real-time.\n\nNo moving parts, zero maintenance, 20+ year lifespan. Installation during normal maintenance windows with zero downtime.\n\nBuilding management systems can't fix power quality - they optimize equipment operation. But when your gaming floor is drawing distorted current, the utility meter reads higher apparent power regardless of how efficiently your HVAC runs.\n\nThis addresses the root electrical cause, not the operational symptoms.",
+        "cta": "Send technical specifications to your engineering team",
+        "send_delay_days": 9
+      },
+      {
+        "email_number": 5,
+        "subject": "30-day metered pilot (same approach as Vegas casino)",
+        "body": "The Vegas property started exactly where you'd start: 30-day metered pilot with pre-defined success criteria.\n\nWe install monitoring equipment, measure baseline power quality and demand patterns, then install filtration on a test circuit. Full before/after verification by third-party engineering firm.\n\nTypical results: 14-month payback with 25-40% IRR. But you'd have your own verified data before any major commitment.\n\nSame low-risk approach that delivered 8.59% demand reduction in Vegas. Worth exploring for Pechanga?",
+        "cta": "Review the pilot program terms and timeline",
+        "send_delay_days": 12
+      }
+    ],
+    "num_emails_generated": 5
+  },
+  {
+    "company_profile": {
+      "company_name": "Mandalay Bay Resort & Casino",
+      "domain": "mandalaybay.mgmresorts.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 8000,
+      "estimated_sqft": 4200000,
+      "estimated_energy_spend": 84000000.0,
+      "annual_savings_dollars": 7215600.0,
+      "monthly_savings_dollars": 601300.0,
+      "five_year_savings": 36078000.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 50509.2
+    },
+    "composite_score": 79.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequence": [
+      {
+        "email_number": 1,
+        "subject": "8.59% kW reduction verified at Vegas casino",
+        "body": "A Las Vegas casino just achieved an 8.59% kW reduction using solid-state harmonic filtration - third-party verified with 14-month payback. I'm reaching out because Mandalay Bay's profile suggests similar results are mathematically possible.\n\nBased on your estimated 42,000 kW peak demand, an 8.59% reduction would lower your annual demand charges by $649,404. Your estimated $84 million annual energy spend could potentially be reduced by $7.2 million.\n\nThe technology eliminates harmonic distortion from gaming equipment at the electrical panel level - zero downtime installation, no maintenance required. You can't control when guests show up, but you can control how much power you draw serving them.",
+        "cta": "See the full third-party verified metering results",
+        "send_delay_days": 0
+      },
+      {
+        "email_number": 2,
+        "subject": "Your $7.5M demand charge breakdown",
+        "body": "Quick question - do your utility bills clearly separate energy charges (kWh) from demand charges (kW)? Most facilities teams don't realize demand charges often represent 30-50% of their total bill.\n\nAt Mandalay Bay's scale, you're likely paying ~$7.5 million annually just in demand charges - that's the fee for your peak 15-minute power draw each month. One spike during a busy weekend sets your rate for 30 days.\n\nCasinos are especially vulnerable because gaming floors create electrical conditions that inflate these readings. Your slot machines and HVAC variable frequency drives are the primary culprits.",
+        "cta": "Download your estimated demand charge breakdown",
+        "send_delay_days": 2
+      },
+      {
+        "email_number": 3,
+        "subject": "Why your gaming equipment inflates power bills",
+        "body": "Gaming equipment creates 15-25% current harmonic distortion. Office buildings typically see 5-8%.\n\nThis distortion inflates apparent power (kVA), forcing higher current draw and inflating your kW demand readings. It's why standard energy solutions - building management systems, LED upgrades, even solar - don't move the needle on casino utility bills.\n\nThe root cause isn't inefficient equipment. It's dirty power created by the equipment you need to operate. Every slot machine, every VFD on your HVAC system contributes to this invisible tax on your electrical consumption.\n\nClean the power at the source, eliminate the demand charge inflation.",
+        "cta": "See your estimated harmonic distortion profile",
+        "send_delay_days": 4
+      },
+      {
+        "email_number": 4,
+        "subject": "How it works (no downtime required)",
+        "body": "Solid-state harmonic filters install at your electrical panels - think of them as noise-canceling headphones for your electrical system. They actively monitor and eliminate distortion in real-time.\n\nZero downtime installation. No maintenance for 20+ years. No moving parts to break.\n\nWhile your building management system tries to optimize when equipment runs, this technology optimizes how much power everything draws when it does run. It's why it works when BMS doesn't - you're addressing the electrical root cause, not just scheduling around it.",
+        "cta": "Send technical specs to your engineering team",
+        "send_delay_days": 7
+      },
+      {
+        "email_number": 5,
+        "subject": "30-day metered pilot (same as Vegas casino)",
+        "body": "The Vegas casino started with a 30-day metered pilot on one electrical panel. Pre-defined success criteria, third-party verification, minimal risk.\n\nIf you see similar 8.59% results, the math is straightforward: 14-month payback, 25-40% IRR on the full installation. If not, you've lost nothing but 30 days.\n\nMost facilities teams are surprised by how much harmonic distortion costs them. The pilot removes the guesswork and provides the data your CFO needs to approve the project.",
+        "cta": "Review the 30-day pilot terms",
+        "send_delay_days": 10
+      }
+    ],
+    "num_emails_generated": 5
+  },
+  {
+    "company_profile": {
+      "company_name": "Bellagio Las Vegas",
+      "domain": "bellagio.mgmresorts.com",
+      "location": "Las Vegas, NV",
+      "employee_count": 8500,
+      "estimated_sqft": 4000000,
+      "estimated_energy_spend": 80000000.0,
+      "annual_savings_dollars": 6872000.0,
+      "monthly_savings_dollars": 572667.0,
+      "five_year_savings": 34360000.0,
+      "payback_months": 14,
+      "carbon_reduction_tons": 48104.0
+    },
+    "composite_score": 79.5,
+    "priority_tier": "A",
+    "persona_mapping": {
+      "primary_persona": "facilities_vp"
+    },
+    "email_sequence": [
+      {
+        "email_number": 1,
+        "subject": "Third-party verified: 8.59% demand reduction at Vegas casino",
+        "body": "A Las Vegas casino just achieved an 8.59% kW demand reduction using solid-state harmonic filtration - third-party verified over 30 days of metered data.\n\nI'm reaching out because Bellagio's profile suggests similar results are mathematically possible. Your estimated $80,000,000 annual energy spend could potentially be reduced by $6,872,000 based on these verified results.\n\nThe technology addresses harmonic distortion from gaming equipment - something standard energy solutions can't touch. Zero downtime installation, no maintenance required.\n\nMost facilities teams haven't seen the actual metered data from a casino deployment.",
+        "cta": "See the full third-party verification report",
+        "send_delay_days": 0
+      },
+      {
+        "email_number": 2,
+        "subject": "Your $7.2M demand charge problem (that most casinos don't see coming)",
+        "body": "Quick question - do your utility bills clearly separate energy charges (kWh) from demand charges (kW)?\n\nMost casino operators focus on energy consumption, but demand charges are often the bigger hit. You're likely paying ~$7,200,000 annually just for peak demand - that's separate from actual energy usage.\n\nHere's the painful part: One 15-minute spike during your busiest night sets the rate for the entire month. You can't control when guests show up, but you can control how much power you draw serving them.\n\nThe root cause? Harmonic distortion from gaming equipment inflates those demand readings.",
+        "cta": "Download your estimated demand charge breakdown",
+        "send_delay_days": 3
+      },
+      {
+        "email_number": 3,
+        "subject": "Why your slot machines are inflating your electric bill",
+        "body": "Gaming floors typically run 15-25% current harmonic distortion. Office buildings? 5-8%.\n\nEvery slot machine, every VFD on your HVAC system creates harmonics that inflate your apparent power draw. Your meters see higher kVA, which translates directly to higher kW demand charges - even when you're not using more actual energy.\n\nThis is why building management systems and LED retrofits barely dent casino utility bills. They're solving the wrong problem.\n\nThe Vegas casino I mentioned eliminated harmonics at the electrical panel level. Clean power = lower demand readings = immediate savings.",
+        "cta": "See your estimated harmonic distortion profile",
+        "send_delay_days": 6
+      },
+      {
+        "email_number": 4,
+        "subject": "How to cut demand charges without touching a single slot machine",
+        "body": "The solution installs at your electrical panels - upstream from everything. Solid-state harmonic filtration that cleans the power before it hits your gaming floor.\n\nNo downtime during installation. No maintenance for 20+ years. No impact on gaming operations.\n\nWhile your competitors chase energy efficiency projects with 7-year paybacks, you're addressing the actual problem: harmonic distortion that's inflating your demand charges every single month.\n\nYour engineering team would probably want to see the technical specs before we go further.",
+        "cta": "Send technical specifications to your engineering team",
+        "send_delay_days": 9
+      },
+      {
+        "email_number": 5,
+        "subject": "30-day metered pilot (same protocol as the Vegas casino)",
+        "body": "Rather than debate projections, let's measure actual results at Bellagio.\n\n30-day metered pilot using the same protocol as the Vegas deployment. We'll establish baseline demand readings, install the filtration, then measure the difference. Third-party verification included.\n\nIf we hit similar results (8.59% demand reduction), you're looking at 14-month payback with 25-40% IRR. If we don't hit meaningful savings, you've lost nothing but 30 days.\n\nThe pilot terms are straightforward - no games, no gotchas.",
+        "cta": "Review the pilot agreement terms",
+        "send_delay_days": 12
+      }
+    ],
+    "num_emails_generated": 5
+  }
+]

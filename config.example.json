@@ -1,0 +1,25 @@
+{
+  "claude_api_key": "sk-ant-api03-your-anthropic-api-key-here",
+  "clay_api_key": "your-clay-api-key-here",
+  "database_path": "tune_campaigns.db",
+
+  "enrichment": {
+    "apollo_api_key": "optional-apollo-key-if-not-using-clay",
+    "clearbit_api_key": "optional-clearbit-key-if-not-using-clay"
+  },
+
+  "email_delivery": {
+    "provider": "sendgrid",
+    "sendgrid_api_key": "your-sendgrid-key",
+    "from_email": "your-name@yourdomain.com",
+    "from_name": "Your Name"
+  },
+
+  "features": {
+    "enable_web_research": true,
+    "enable_intent_detection": true,
+    "enable_ab_testing": true,
+    "min_quality_score": 7.0,
+    "max_concurrency": 5
+  }
+}
