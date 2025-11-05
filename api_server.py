@@ -3,7 +3,7 @@ Tune Agent Builder API Server
 FastAPI server exposing all agent capabilities via REST API
 """
 
-from fastapi import FastAPI, HTTPException, BackgroundTasks, Depends
+from fastapi import FastAPI, HTTPException, BackgroundTasks, Depends, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
@@ -13,6 +13,8 @@ from datetime import datetime
 import asyncio
 import json
 from pathlib import Path
+import csv
+import io
 
 from src.agent_builder_system import MasterAgentBuilder, IndustryType, IndustryAgent
 from src.prospect_intelligence import ProspectIntelligence, BatchProspectProcessor
@@ -79,6 +81,21 @@ class ClayWebhookPayload(BaseModel):
     webhook_type: str
     table_id: str
     data: Dict
+
+class HospitalInput(BaseModel):
+    hospital_name: str = Field(..., description="Hospital name")
+    location: Optional[str] = Field(None, description="Hospital location")
+    contact_name: Optional[str] = Field(None, description="Contact name")
+    contact_title: Optional[str] = Field(None, description="Contact title")
+    contact_email: Optional[str] = Field(None, description="Contact email")
+    beds: Optional[int] = Field(None, description="Number of beds")
+    sqft: Optional[int] = Field(None, description="Square footage")
+    annual_energy_spend: Optional[float] = Field(None, description="Annual energy spend")
+
+class HospitalBatchRequest(BaseModel):
+    hospitals: List[HospitalInput]
+    generate_pdfs: bool = Field(True, description="Generate PDF lead magnets")
+    generate_emails: bool = Field(True, description="Generate email sequences")
 
 
 # ============================================================================
@@ -580,6 +597,400 @@ async def list_industries(api_key: APIKey = Depends(require_auth)):
     """List available industries (PROTECTED - requires API key)"""
     return {
         "industries": [e.value for e in IndustryType]
+    }
+
+
+# ============================================================================
+# HOSPITAL-SPECIFIC ENDPOINTS (CSV Upload & Clay Integration)
+# ============================================================================
+
+def get_persona_focus(persona_type: str) -> str:
+    """Get persona-specific focus areas"""
+    focus_map = {
+        'finance': 'EBITDA impact, ROI, margin improvement, budget optimization, capital allocation',
+        'esg': 'Carbon reduction, ESG reporting, sustainability goals, green building certifications, stakeholder expectations',
+        'operations': 'Operational reliability, uptime, patient care continuity, equipment performance, risk mitigation',
+        'executive_leadership': 'Strategic value, competitive advantage, organizational goals, board reporting, community impact',
+        'facilities': 'Cost savings, equipment efficiency, maintenance reduction, energy optimization, operational simplicity'
+    }
+    return focus_map.get(persona_type, 'Cost savings and operational efficiency')
+
+
+async def process_hospital_data(hospital_input: Dict, agent: Dict) -> Dict:
+    """Process a single hospital and generate content + PDF"""
+    import anthropic
+    from pdf_lead_magnets.hospital_pdf_generator import generate_hospital_cost_analysis_pdf
+
+    # Enrich hospital data
+    hospital_name = hospital_input.get('hospital_name', 'Unknown Hospital')
+    location = hospital_input.get('location', 'United States')
+
+    # Handle empty strings from CSV
+    beds_str = str(hospital_input.get('beds', 200))
+    beds = int(beds_str) if beds_str and beds_str.strip() and beds_str != '0' else 200
+
+    sqft_str = str(hospital_input.get('sqft', 0))
+    sqft = int(sqft_str) if sqft_str and sqft_str.strip() and sqft_str != '0' else 0
+
+    # DO NOT estimate sqft from beds - many hospitals have multiple locations
+    # Only use sqft if explicitly provided
+    if sqft == 0:
+        sqft = 500000  # Default conservative estimate for calculation purposes only
+
+    # Handle empty string for annual energy spend
+    annual_spend_str = str(hospital_input.get('annual_energy_spend', 0))
+    annual_energy_spend = float(annual_spend_str) if annual_spend_str and annual_spend_str.strip() and annual_spend_str != '0' else 0
+
+    if annual_energy_spend == 0:
+        kwh_per_sqft = 250
+        cost_per_kwh = 0.11
+        annual_energy_spend = sqft * kwh_per_sqft * cost_per_kwh
+
+    savings_percentage = agent.get('savings_benchmarks', {}).get('typical_percentage', 12)
+    annual_savings = annual_energy_spend * (savings_percentage / 100)
+    monthly_savings = annual_savings / 12
+    five_year_savings = annual_savings * 5
+
+    annual_kwh = annual_energy_spend / 0.11
+    carbon_reduction_tons = (annual_kwh * (savings_percentage / 100) * 0.92) / 2000
+
+    estimated_investment = sqft * 0.50
+    payback_months = round((estimated_investment / monthly_savings) if monthly_savings > 0 else 18)
+
+    enriched_data = {
+        'company_profile': {
+            'company_name': hospital_name,
+            'location': location,
+            'beds': beds,
+            'estimated_sqft': sqft,
+            'estimated_energy_spend': round(annual_energy_spend),
+            'annual_savings_dollars': round(annual_savings),
+            'monthly_savings_dollars': round(monthly_savings),
+            'five_year_savings': round(five_year_savings),
+            'carbon_reduction_tons': round(carbon_reduction_tons),
+            'payback_months': payback_months,
+            'savings_percentage': savings_percentage,
+            'domain': hospital_input.get('domain', '')
+        },
+        'contact': {
+            'name': hospital_input.get('contact_name', ''),
+            'first_name': hospital_input.get('contact_first_name', hospital_input.get('contact_name', '').split()[0] if hospital_input.get('contact_name', '') else ''),
+            'title': hospital_input.get('contact_title', ''),
+            'email': hospital_input.get('contact_email', '')
+        }
+    }
+
+    # Generate PDF
+    pdf_filename = generate_hospital_cost_analysis_pdf(enriched_data)
+    pdf_base_url = os.getenv("PDF_BASE_URL", "http://localhost:8000")
+    pdf_url = f"{pdf_base_url}/pdf/{pdf_filename}"
+
+    # Check if email exists - skip entirely if not
+    contact_email = hospital_input.get('contact_email', '').strip()
+    has_email = bool(contact_email)
+
+    # Skip this contact entirely if no email (don't return anything)
+    if not has_email:
+        return None
+
+    # Generate email sequence
+    client = anthropic.Anthropic(api_key=config["claude_api_key"])
+
+    # Determine persona (5 categories: Operations, Finance, Executive Leadership, Facilities, ESG)
+    contact_title = hospital_input.get('contact_title', '').lower()
+
+    if any(x in contact_title for x in ['cfo', 'chief financial', 'finance', 'treasurer', 'controller']):
+        persona_type = 'finance'
+        persona_label = 'Finance'
+    elif any(x in contact_title for x in ['sustainability', 'esg', 'environmental', 'chief sustainability']):
+        persona_type = 'esg'
+        persona_label = 'ESG'
+    elif any(x in contact_title for x in ['operations', 'coo', 'chief operating', 'vp operations', 'director of operations']):
+        persona_type = 'operations'
+        persona_label = 'Operations'
+    elif any(x in contact_title for x in ['ceo', 'president', 'chief executive', 'executive director', 'managing director', 'administrator']):
+        persona_type = 'executive_leadership'
+        persona_label = 'Executive Leadership'
+    elif any(x in contact_title for x in ['facilities', 'facility', 'building', 'property', 'plant', 'energy', 'utilities']):
+        persona_type = 'facilities'
+        persona_label = 'Facilities'
+    else:
+        # Default to Facilities
+        persona_type = 'facilities'
+        persona_label = 'Facilities'
+
+    value_props = agent.get('value_props_by_persona', {})
+    # Map to agent personas (which might use different naming)
+    persona_mapping = {
+        'finance': ['cfo', 'finance'],
+        'esg': ['esg_director', 'sustainability_chief'],
+        'operations': ['operations_director', 'coo'],
+        'executive_leadership': ['ceo', 'executive'],
+        'facilities': ['facilities_vp', 'energy_manager', 'director_facilities']
+    }
+
+    # Try to find matching value prop from agent
+    persona_value_prop = {}
+    for agent_persona_key in persona_mapping.get(persona_type, ['facilities_vp']):
+        if agent_persona_key in value_props:
+            persona_value_prop = value_props[agent_persona_key]
+            break
+
+    # Fallback to first available
+    if not persona_value_prop and value_props:
+        persona_value_prop = list(value_props.values())[0]
+
+    company = enriched_data['company_profile']
+    contact = enriched_data['contact']
+
+    prompt = f"""You are writing a 5-email sequence for {contact.get('first_name', '')} at {company['company_name']}.
+
+**PROSPECT:**
+Name: {contact.get('first_name', '')} {contact.get('name', '').split()[-1] if contact.get('name', '') else ''}
+Title: {contact.get('title', '')}
+Hospital: {company['company_name']}
+Persona: {persona_label}
+
+**THEIR WORLD ({persona_label}):**
+{get_persona_focus(persona_type)}
+Pain: Energy costs rising, but can't deploy most efficiency solutions due to patient safety risks
+
+**YOUR SOLUTION:**
+Passive Harmonics Filter
+- Key breakthrough: If it fails → nothing happens (no power interruption, zero patient risk)
+- Unlike active systems that can cause power issues
+- This is WHY hospitals can actually use it
+- Results: 8-12% energy savings (est ${company['annual_savings_dollars']:,}/year for them)
+- Real case study at captivateenergy.com
+
+**SALES APPROACH:**
+Start with THEIR experience (what they're dealing with), not your product.
+Build curiosity - don't info-dump.
+Make case study mentions conversational and natural.
+The passive filter is the breakthrough moment - make it hit.
+
+**EMAIL REQUIREMENTS:**
+- 75-90 words each
+- Paragraph breaks (\\n\\n)
+- Professional but warm and conversational
+- Lead with THEIR pain/experience, not features
+- Build curiosity naturally
+- Use "estimated" or "(est)" with dollars
+- NO greetings, NO signatures
+
+**5-EMAIL SEQUENCE:**
+
+**Email 1: Their Reality → Breakthrough**
+Start with their world: energy costs climbing, can't deploy most solutions (too risky for hospitals).
+Then introduce the breakthrough: passive harmonics filter = if it fails, nothing happens. Zero patient risk.
+Mention naturally: "Happy to walk you through how another hospital system proved this out - there's a case study at captivateenergy.com if you want to preview first."
+CTA: "Worth exploring for {company['company_name']}?"
+75-85 words
+
+**Email 2: Why They Can't Use Traditional Solutions**
+Empathize: Most energy tech is too risky for hospitals - if it fails, patients are at risk.
+The passive approach changes everything: fail-safe by design.
+Build curiosity conversationally: "Happy to walk you through how another hospital system approached this - the case study's at captivateenergy.com if you want to preview."
+CTA: Simple and natural
+80-90 words
+
+**Email 3: Their Specific Pain Point**
+Focus on {persona_label}'s world - what they experience without this solution.
+Show how passive filter solves their specific problem (not generic).
+Reference results naturally: "Can walk you through how similar hospitals achieved 8-12% reductions - the case study's at captivateenergy.com if you'd like to preview."
+Make them curious to learn more
+75-85 words
+
+**Email 4: Conversational Social Proof**
+"Talked to a {persona_label} at another health system recently..." approach.
+Make it feel like a real conversation, not a sales pitch.
+The passive filter angle resonated with them because [reason specific to persona].
+Natural mention: "Happy to walk you through their results - similar to the case study at captivateenergy.com if you want to see it first."
+75-85 words
+
+**Email 5: Graceful Exit**
+Acknowledge you've reached out a few times.
+Restate the core benefit in one line: passive = safe, estimated savings.
+Easy out: "If not a priority, totally understand."
+Or simple next step: "Happy to walk you through the approach if you're curious - case study's at captivateenergy.com if you'd like to preview."
+70-80 words
+
+**CRITICAL RULES:**
+1. Lead with THEIR experience, not your product
+2. Build curiosity - don't lecture
+3. Case study mentions must feel natural and conversational
+4. Make passive filter = the breakthrough moment
+5. Use \\n\\n for paragraph breaks
+6. Stay 75-90 words
+7. Professional but warm - write like you're helping, not selling
+
+Return JSON: {{"emails": [{{"email_number": 1, "subject": "...", "body": "..."}}, ...]}}
+"""
+
+    message = client.messages.create(
+        model="claude-sonnet-4-20250514",
+        max_tokens=4000,
+        messages=[{"role": "user", "content": prompt}]
+    )
+
+    content = message.content[0].text
+
+    try:
+        if '```json' in content:
+            json_str = content.split('```json')[1].split('```')[0].strip()
+            emails_data = json.loads(json_str)
+        else:
+            emails_data = {"emails": []}
+    except:
+        emails_data = {"emails": []}
+
+    return {
+        'hospital': enriched_data,
+        'content': {
+            'persona_type': persona_type,
+            'persona_label': persona_label,
+            'sequence': emails_data.get('emails', []),
+            'value_prop': persona_value_prop,
+            'pdf_url': pdf_url,
+            'pdf_filename': pdf_filename
+        },
+        'processed_at': datetime.now().isoformat()
+    }
+
+
+@app.post("/api/hospital/process-csv", tags=["Hospital"])
+async def process_hospital_csv(
+    file: UploadFile = File(...),
+    api_key: APIKey = Depends(require_auth)
+):
+    """
+    Upload CSV of hospitals and generate personalized content + PDFs (PROTECTED)
+
+    Expected CSV columns:
+    - hospital_name (required)
+    - location (optional)
+    - contact_name (optional)
+    - contact_title (optional)
+    - contact_email (optional)
+    - beds (optional)
+    - sqft (optional)
+    - annual_energy_spend (optional)
+    """
+
+    # Load hospital agent
+    hospital_agent_path = Path("agents/hospital_agent.json")
+    if not hospital_agent_path.exists():
+        raise HTTPException(
+            status_code=404,
+            detail="Hospital agent not found. Build it first: POST /api/agents/build with industry='hospital'"
+        )
+
+    with open(hospital_agent_path, 'r') as f:
+        hospital_agent = json.load(f)
+
+    # Parse CSV
+    contents = await file.read()
+    csv_text = contents.decode('utf-8')
+    csv_reader = csv.DictReader(io.StringIO(csv_text))
+
+    hospitals = list(csv_reader)
+
+    if len(hospitals) == 0:
+        raise HTTPException(status_code=400, detail="CSV file is empty")
+
+    # Process each hospital (skip contacts without emails)
+    results = []
+    for hospital_input in hospitals:
+        result = await process_hospital_data(hospital_input, hospital_agent)
+        if result is not None:  # Only add if contact has email
+            results.append(result)
+
+    # Save results
+    os.makedirs("outputs/hospital_campaigns", exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_file = f"outputs/hospital_campaigns/hospital_campaign_{timestamp}.json"
+
+    with open(output_file, 'w') as f:
+        json.dump(results, f, indent=2)
+
+    return {
+        "status": "success",
+        "hospitals_processed": len(results),
+        "pdfs_generated": len([r for r in results if 'pdf_filename' in r['content']]),
+        "output_file": output_file,
+        "results": results
+    }
+
+
+@app.post("/api/hospital/process-single", tags=["Hospital"])
+async def process_single_hospital(
+    hospital: HospitalInput,
+    api_key: APIKey = Depends(require_auth)
+):
+    """
+    Process single hospital from Clay webhook or API call (PROTECTED)
+    Generates personalized email sequence + PDF lead magnet
+    """
+
+    # Load hospital agent
+    hospital_agent_path = Path("agents/hospital_agent.json")
+    if not hospital_agent_path.exists():
+        raise HTTPException(
+            status_code=404,
+            detail="Hospital agent not found. Build it first: POST /api/agents/build with industry='hospital'"
+        )
+
+    with open(hospital_agent_path, 'r') as f:
+        hospital_agent = json.load(f)
+
+    # Process hospital
+    result = await process_hospital_data(hospital.dict(), hospital_agent)
+
+    return result
+
+
+@app.post("/api/hospital/process-batch", tags=["Hospital"])
+async def process_hospital_batch(
+    request: HospitalBatchRequest,
+    api_key: APIKey = Depends(require_auth)
+):
+    """
+    Process batch of hospitals from Clay (PROTECTED)
+    Generates personalized content + PDFs for multiple hospitals
+    """
+
+    # Load hospital agent
+    hospital_agent_path = Path("agents/hospital_agent.json")
+    if not hospital_agent_path.exists():
+        raise HTTPException(
+            status_code=404,
+            detail="Hospital agent not found. Build it first: POST /api/agents/build with industry='hospital'"
+        )
+
+    with open(hospital_agent_path, 'r') as f:
+        hospital_agent = json.load(f)
+
+    # Process each hospital (skip contacts without emails)
+    results = []
+    for hospital_input in request.hospitals:
+        result = await process_hospital_data(hospital_input.dict(), hospital_agent)
+        if result is not None:  # Only add if contact has email
+            results.append(result)
+
+    # Save results
+    os.makedirs("outputs/hospital_campaigns", exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_file = f"outputs/hospital_campaigns/hospital_batch_{timestamp}.json"
+
+    with open(output_file, 'w') as f:
+        json.dump(results, f, indent=2)
+
+    return {
+        "status": "success",
+        "hospitals_processed": len(results),
+        "pdfs_generated": len([r for r in results if 'pdf_filename' in r['content']]),
+        "output_file": output_file,
+        "results": results
     }
 
 
